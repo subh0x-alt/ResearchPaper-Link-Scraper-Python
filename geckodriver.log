@@ -56,8 +56,9 @@ JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
 JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
 JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
-1658575741831	geckodriver	INFO	Listening on 127.0.0.1:53050
-1658575744879	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53051" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofileQtx62s"
+1658577488691	Marionette	INFO	Stopped listening on port 64445
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53051" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofileQtx62s"
 1658575745523	Marionette	INFO	Marionette enabled
 1658575745527	Marionette	INFO	Listening on port 53062
 WebDriver BiDi listening on ws://localhost:53051
@@ -96,3 +97,212 @@ JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/p
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sciencedirect.com"
 1658577238068	Marionette	INFO	Stopped listening on port 53238
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658591902414	geckodriver	INFO	Listening on 127.0.0.1:57005
+1658591905467	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57006" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofilenRqI2Y"
+1658591906421	Marionette	INFO	Marionette enabled
+1658591906427	Marionette	INFO	Listening on port 57015
+WebDriver BiDi listening on ws://localhost:57006
+Read port: 57015
+1658591906807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofilenRqI2Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57006/devtools/browser/7cc1c40c-1e61-4c55-9894-5c17864cf0de
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sciencedirect.com"
+1658591917475	Marionette	INFO	Stopped listening on port 57015
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658592792999	geckodriver	INFO	Listening on 127.0.0.1:57621
+1658592796024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57622" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofile21biAZ"
+1658592796876	Marionette	INFO	Marionette enabled
+1658592796881	Marionette	INFO	Listening on port 57634
+WebDriver BiDi listening on ws://localhost:57622
+Read port: 57634
+1658592797078	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofile21biAZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57622/devtools/browser/1525faaa-d5d5-4438-977a-3774b5f1fe55
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sciencedirect.com"
+1658592881500	Marionette	INFO	Stopped listening on port 57634
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57744" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofilev3mmyC"
+1658592874007	Marionette	INFO	Marionette enabled
+1658592874011	Marionette	INFO	Listening on port 57756
+WebDriver BiDi listening on ws://localhost:57744
+Read port: 57756
+1658592874202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofilev3mmyC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57744/devtools/browser/7cd584eb-fe4c-4d75-b190-4c6e8fe3626a
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sciencedirect.com"
+1658594271905	Marionette	INFO	Stopped listening on port 57756
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 4704, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ocal\\Temp\\rust_mozprofile7RADcI"
+1658593957523	Marionette	INFO	Marionette enabled
+1658593957526	Marionette	INFO	Listening on port 58564
+WebDriver BiDi listening on ws://localhost:58553
+Read port: 58564
+1658593957790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofile7RADcI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58553/devtools/browser/fb4a5b99-0eb6-43d1-9856-6e96c8359b75
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sciencedirect.com"
+1658594273289	Marionette	INFO	Stopped listening on port 58564
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58994" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofile2liw2c"
+1658594267457	Marionette	INFO	Marionette enabled
+1658594267461	Marionette	INFO	Listening on port 59011
+WebDriver BiDi listening on ws://localhost:58994
+Read port: 59011
+1658594267669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofile2liw2c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58994/devtools/browser/ed5b3307-0f06-45a4-ace4-169e34aca795
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sciencedirect.com"
+1658594396159	Marionette	INFO	Stopped listening on port 59011
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59339" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofileZKmIeN"
+1658594327463	Marionette	INFO	Marionette enabled
+1658594327466	Marionette	INFO	Listening on port 59353
+WebDriver BiDi listening on ws://localhost:59339
+Read port: 59353
+1658594327660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofileZKmIeN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59339/devtools/browser/a8b2ee22-30ae-4e81-a55a-3f6c7b26907e
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sciencedirect.com"
+1658594397620	Marionette	INFO	Stopped listening on port 59353
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658594402846	geckodriver	INFO	Listening on 127.0.0.1:59615
+1658594405871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59616" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofileOpvXY2"
+1658594406232	Marionette	INFO	Marionette enabled
+1658594406235	Marionette	INFO	Listening on port 59648
+WebDriver BiDi listening on ws://localhost:59616
+Read port: 59648
+1658594406388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofileOpvXY2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59616/devtools/browser/743e01fc-1f53-4be1-a16d-26a6c00a3bac
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sciencedirect.com"
+1658594970194	Marionette	INFO	Stopped listening on port 59648
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59929" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofileGQRTdh"
+1658594513100	Marionette	INFO	Marionette enabled
+1658594513104	Marionette	INFO	Listening on port 59944
+WebDriver BiDi listening on ws://localhost:59929
+Read port: 59944
+1658594513276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofileGQRTdh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59929/devtools/browser/0bf7d11e-7334-4e51-96de-d4dcfaa2a08c
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sciencedirect.com"
+1658594970970	Marionette	INFO	Stopped listening on port 59944
+[Parent 12024, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+cal\\Temp\\rust_mozprofile1KucU0"
+1658594633024	Marionette	INFO	Marionette enabled
+1658594633028	Marionette	INFO	Listening on port 60218
+WebDriver BiDi listening on ws://localhost:60205
+Read port: 60218
+1658594633189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofile1KucU0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60205/devtools/browser/4b1d81c6-b39d-4165-8173-6acc06a4e886
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sciencedirect.com"
+1658594972622	Marionette	INFO	Stopped listening on port 60218
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658595213577	geckodriver	INFO	Listening on 127.0.0.1:61113
+1658595216575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61114" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofile3gEQKl"
+1658595217321	Marionette	INFO	Marionette enabled
+1658595217325	Marionette	INFO	Listening on port 61166
+WebDriver BiDi listening on ws://localhost:61114
+Read port: 61166
+1658595217533	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofile3gEQKl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61114/devtools/browser/83e89f45-c37b-4ba1-8bfa-43ef15dae502
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sciencedirect.com"
+1658595223950	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658596270014	Marionette	INFO	Stopped listening on port 61166
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61779" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofilezSnrHr"
+1658595590990	Marionette	INFO	Marionette enabled
+1658595590994	Marionette	INFO	Listening on port 61791
+WebDriver BiDi listening on ws://localhost:61779
+Read port: 61791
+1658595591152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofilezSnrHr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61779/devtools/browser/2f2c817a-49da-4674-9ea8-3d610ec1a12e
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sciencedirect.com"
+1658596270907	Marionette	INFO	Stopped listening on port 61791
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62502" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofile4gQ1UV"
+1658596202017	Marionette	INFO	Marionette enabled
+1658596202022	Marionette	INFO	Listening on port 62514
+WebDriver BiDi listening on ws://localhost:62502
+Read port: 62514
+1658596202182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofile4gQ1UV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62502/devtools/browser/6d0abde0-c0d5-4446-853d-6bf8032afde8
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sciencedirect.com"
+1658596272065	Marionette	INFO	Stopped listening on port 62514
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658596278247	geckodriver	INFO	Listening on 127.0.0.1:62751
+1658596281265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62752" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofile1F2FAx"
+1658596281612	Marionette	INFO	Marionette enabled
+1658596281616	Marionette	INFO	Listening on port 62786
+WebDriver BiDi listening on ws://localhost:62752
+Read port: 62786
+1658596281773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofile1F2FAx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62752/devtools/browser/6e74ed4c-421d-4d3e-b934-5d1c11f1ddb7
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sciencedirect.com"
+1658596288049	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658596565921	Marionette	INFO	Stopped listening on port 62786
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63264" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofilezmU9F9"
+1658596553616	Marionette	INFO	Marionette enabled
+1658596553620	Marionette	INFO	Listening on port 63277
+WebDriver BiDi listening on ws://localhost:63264
+Read port: 63277
+1658596553783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofilezmU9F9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63264/devtools/browser/c7673e46-f1b1-4df7-a2b6-f05f677af669
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sciencedirect.com"
+1658596559745	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zRsni2KaYpGlbzf8qPigYhDu91QLoFuK7JLW1IaqgGI.js line 2 > eval line 5705 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1658597060489	Marionette	INFO	Stopped listening on port 63277

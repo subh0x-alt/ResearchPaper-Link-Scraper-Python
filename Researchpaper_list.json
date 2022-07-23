@@ -1,1 +1,914 @@
-{"columns":["article_type","title","journal","doi-link"],"index":[0],"data":[["Research article","A large multi-group decision-making technique for prioritizing the big data-driven circular economy practices in the automobile component manufacturing industry","Technological Forecasting and Social Change",null]]}
+{
+    "columns": [
+        "article_type",
+        "title",
+        "journal",
+        "authors",
+        "url",
+        "doi-link"
+    ],
+    "index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99
+    ],
+    "data": [
+        [
+            "Research article",
+            "Investigation of irradiation parameters on fluid flow in microchannels fabricated on polymethyl methacrylate by a KrF laser",
+            "Optik",
+            "Mitra Vesal, Hedieh Pazokian, Mahmoud Mollabashi",
+            "https://www.sciencedirect.com/science/article/pii/S0030402622006829",
+            null
+        ],
+        [
+            "Research article",
+            "Stability and uniformity of gas–liquid two-phase flow in shear-thinning fluids in parallelized microchannels",
+            "Chemical Engineering Journal",
+            "He Wang, Langyu Liu, Taotao Fu",
+            "https://www.sciencedirect.com/science/article/pii/S138589472202174X",
+            null
+        ],
+        [
+            "Research article",
+            "Effect of asymmetric fluid flow distribution on flow boiling in a microchannel heat sink – An experimental investigation",
+            "Applied Thermal Engineering",
+            "Ritunesh Kumar, Gurjeet Singh, Dariusz Mikielewicz",
+            "https://www.sciencedirect.com/science/article/pii/S1359431122006548",
+            null
+        ],
+        [
+            "Research article",
+            "Numerical study on heat transfer enhancement by viscoelastic fluid pulsating laminar flow in rectangular microchannel heat sinks",
+            "Applied Thermal Engineering",
+            "Zengkun Zhan, Lixia Chen, Fengchen Li",
+            "https://www.sciencedirect.com/science/article/pii/S1359431122006780",
+            null
+        ],
+        [
+            "Research article",
+            "Electroosmotic pressure-driven oscillatory flow and mass transport of Oldroyd-B fluid under high zeta potential and slippage conditions in microchannels",
+            "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
+            "Sujit Saha, Balaram Kundu",
+            "https://www.sciencedirect.com/science/article/pii/S0927775722008251",
+            null
+        ],
+        [
+            "Research article",
+            "Electroosmotic and pressure-driven slip flow of fractional viscoelastic fluids in microchannels",
+            "Applied Mathematics and Computation",
+            "Shujuan An, Kai Tian, Yongjun Jian",
+            "https://www.sciencedirect.com/science/article/pii/S0096300322001576",
+            null
+        ],
+        [
+            "Review article",
+            "Fluid flow and heat transfer in microchannel heat sinks: Modelling review and recent progress",
+            "Thermal Science and Engineering Progress",
+            "Jie Gao, Zhuohuan Hu, Hongwei Wu, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S2451904922000117",
+            null
+        ],
+        [
+            "Research article",
+            "Thermodiffusive effect on the local Debye-length in an electroosmotic flow of a viscoelastic fluid in a slit microchannel",
+            "International Journal of Heat and Mass Transfer",
+            "A. Hernández, J. Arcos, F. Méndez",
+            "https://www.sciencedirect.com/science/article/pii/S0017931022000047",
+            null
+        ],
+        [
+            "Research article",
+            "Heat transfer and fluid flow analysis of microchannel heat sinks with periodic vertical porous ribs",
+            "Applied Thermal Engineering",
+            "Mohammad Shamsoddini Lori, Kambiz Vafai",
+            "https://www.sciencedirect.com/science/article/pii/S1359431122000266",
+            null
+        ],
+        [
+            "Research article",
+            "Unsteady electromagnetohydrodynamic flow of couple stress fluid through a microchannel: A theoretical analysis",
+            "European Journal of Mechanics - B/Fluids",
+            "Thota Siva, Srinivas Jangili, Pranab Kumar Mondal",
+            "https://www.sciencedirect.com/science/article/pii/S0997754622000607",
+            null
+        ],
+        [
+            "Research article",
+            "Investigation of fluid flow and heat transfer characteristics in a microchannel heat sink with double-layered staggered cavities",
+            "International Journal of Heat and Mass Transfer",
+            "Lin Liu, Ziyong Cao, Te Sun",
+            "https://www.sciencedirect.com/science/article/pii/S0017931022000175",
+            null
+        ],
+        [
+            "Research article",
+            "Numerical analysis of Carreau fluid flow over a vertical porous microchannel with entropy generation",
+            "Partial Differential Equations in Applied Mathematics",
+            "Srinivas Reedy C., P. Srihari, Kishan Naikoti, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S2666818122000249",
+            null
+        ],
+        [
+            "Research article",
+            "Taylor vortex center, film thickness, velocity and frequency of circulations in slugs and plugs for non-Newtonian and Newtonian fluids in two-phase Taylor flow in microchannels",
+            "Chemical Engineering Science",
+            "Rufat Sh. Abiev",
+            "https://www.sciencedirect.com/science/article/pii/S0009250921009453",
+            null
+        ],
+        [
+            "Research article",
+            "Fluid flow and convective heat transfer in a rotating rectangular microchannel with various aspect ratios",
+            "International Journal of Thermal Sciences",
+            "A. Sohankar, A. Joulaei, M. Mahmoodi",
+            "https://www.sciencedirect.com/science/article/pii/S1290072921004191",
+            null
+        ],
+        [
+            "Research article",
+            "Numerical simulations for electro-osmotic flow of PTT fluids in diverging microchannel",
+            "Materials Today: Proceedings",
+            "Mohit Trivedi, Saurabh Maurya, Neelkanth Nirmalkar",
+            "https://www.sciencedirect.com/science/article/pii/S221478532108175X",
+            null
+        ],
+        [
+            "Research article",
+            "Analytical closed-form solution for fluid flow through microchannel heat sinks including axial conduction",
+            "International Communications in Heat and Mass Transfer",
+            "Indrasis Mitra, Indranil Ghosh",
+            "https://www.sciencedirect.com/science/article/pii/S0735193321006254",
+            null
+        ],
+        [
+            "Research article",
+            "Numerical studies on the hydraulic and mixing performances of fluid flow around a cylinder in microchannel with vertical flexible flag",
+            "Chemical Engineering Journal",
+            "Dalei Jing, Xuekuan Zhan",
+            "https://www.sciencedirect.com/science/article/pii/S138589472104585X",
+            null
+        ],
+        [
+            "Research article",
+            "Thermal analysis of MHD Williamson fluid flow through a microchannel",
+            "International Communications in Heat and Mass Transfer",
+            "N. S. Shashikumar, Macha Madhu, Naikoti Kishan",
+            "https://www.sciencedirect.com/science/article/pii/S0735193321004759",
+            null
+        ],
+        [
+            "Research article",
+            "Pressure drop and flow pattern of gas-non-Newtonian fluid two-phase flow in a square microchannel",
+            "Chemical Engineering Research and Design",
+            "Kai Feng, Huichen Zhang",
+            "https://www.sciencedirect.com/science/article/pii/S0263876221002884",
+            null
+        ],
+        [
+            "Research article",
+            "Mathematical model of two-phase Taylor flow hydrodynamics for four combinations of non-Newtonian and Newtonian fluids in microchannels",
+            "Chemical Engineering Science",
+            "Rufat Sh. Abiev",
+            "https://www.sciencedirect.com/science/article/pii/S0009250921004954",
+            null
+        ],
+        [
+            "Research article",
+            "Insight into Newtonian fluid flow and heat transfer in vertical microchannel subject to rhythmic membrane contraction due to pressure gradient and buoyancy forces",
+            "International Journal of Heat and Mass Transfer",
+            "D. S. Bhandari, Dharmendra Tripathi, J. Prakash",
+            "https://www.sciencedirect.com/science/article/pii/S001793102101348X",
+            null
+        ],
+        [
+            "Research article",
+            "Effects of geometric parameters of circular pin-fins on fluid flow and heat transfer in an interrupted microchannel heat sink",
+            "International Journal of Thermal Sciences",
+            "Zhenfei Feng, Zhenjun Hu, Jinxin Zhang",
+            "https://www.sciencedirect.com/science/article/pii/S1290072921001228",
+            null
+        ],
+        [
+            "Research article",
+            "CFD analysis for heat transfer and fluid flow in microchannel heat sink with micro inserts",
+            "Materials Today: Proceedings",
+            "Shailesh Ranjan Kumar, Satyendrta Singh",
+            "https://www.sciencedirect.com/science/article/pii/S2214785321015844",
+            null
+        ],
+        [
+            "Research article",
+            "Influence of finite size of ions on thermal transport of a simultaneous electrokinetic-pressure driven flow of power-law fluids in a slit microchannel",
+            "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
+            "Payam Fadaei, Hamid Niazmand, Mohammad Amin Raoufi",
+            "https://www.sciencedirect.com/science/article/pii/S092777572101726X",
+            null
+        ],
+        [
+            "Research article",
+            "Numerical study and Taguchi optimization of fluid mixing by a microheater-modulated alternating current electrothermal flow in a Y-shape microchannel",
+            "Sensors and Actuators B: Chemical",
+            "Sumin Park, Han-Sheng Chuang, Jae-Sung Kwon",
+            "https://www.sciencedirect.com/science/article/pii/S0925400520315823",
+            null
+        ],
+        [
+            "Research article",
+            "Characteristics of heat transfer and fluid flow in microchannel heat sinks with rectangular grooves and different shaped ribs",
+            "Alexandria Engineering Journal",
+            "Qifeng Zhu, Kunpeng Chang, Yangyang Jin, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S1110016820304014",
+            null
+        ],
+        [
+            "Research article",
+            "Computational study of rib shape and configuration for heat transfer and fluid flow characteristics of microchannel heat sinks with fan-shaped cavities",
+            "Applied Thermal Engineering",
+            "Qifeng Zhu, Yangyang Jin, Huixue Xia",
+            "https://www.sciencedirect.com/science/article/pii/S1359431121006104",
+            null
+        ],
+        [
+            "Research article",
+            "Fluid flow and heat transfer characteristics of microchannel heat sinks with different groove shapes",
+            "International Journal of Thermal Sciences",
+            "Qifeng Zhu, Huixue Xia, Yangyang Jin",
+            "https://www.sciencedirect.com/science/article/pii/S1290072920311662",
+            null
+        ],
+        [
+            "Research article",
+            "Fluid flow and heat transfer in microchannel with porous bio-inspired roughness",
+            "International Journal of Thermal Sciences",
+            "Prasenjit Dey, Sandip Kr Saha",
+            "https://www.sciencedirect.com/science/article/pii/S1290072920311741",
+            null
+        ],
+        [
+            "Short communication",
+            "Heat transfer intensification in MEMS two-fluid parallel flow heat exchangers by embedding pin fins in microchannels",
+            "International Journal of Thermofluids",
+            "Fadi Alnaimat, Issah M. AlHamad, Bobby Mathew, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S2666202720300355",
+            null
+        ],
+        [
+            "Research article",
+            "Mass transfer through a concentric-annulus microchannel driven by an oscillatory electroosmotic flow of a Maxwell fluid",
+            "Journal of Non-Newtonian Fluid Mechanics",
+            "M. Peralta, J. Arcos, O. Bautista",
+            "https://www.sciencedirect.com/science/article/pii/S0377025720300495",
+            null
+        ],
+        [
+            "Research article",
+            "Integral transform analysis of microchannel fluid flow: Irregular geometry estimation using velocimetry data",
+            "Applied Mathematical Modelling",
+            "I. F. Pinheiro, G. Puccetti, L. A. Sphaier",
+            "https://www.sciencedirect.com/science/article/pii/S0307904X20305552",
+            null
+        ],
+        [
+            "Research article",
+            "Heat stream in electroosmotic bio-fluid flow in straight microchannel via peristalsis",
+            "International Communications in Heat and Mass Transfer",
+            "S. Noreen, S. Waheed, D. Tripathi",
+            "https://www.sciencedirect.com/science/article/pii/S0735193321000749",
+            null
+        ],
+        [
+            "Research article",
+            "The slip flow of generalized Maxwell fluids with time-distributed characteristics in a rotating microchannel",
+            "Applied Mathematics Letters",
+            "Chenqing Feng, Xinhui Si, Beibei Zhu",
+            "https://www.sciencedirect.com/science/article/pii/S0893965921001348",
+            null
+        ],
+        [
+            "Research article",
+            "A new method for heat transfer coefficient measurements of single-phase fluids during laminar flow in microchannels",
+            "International Journal of Heat and Mass Transfer",
+            "Seungwhan Baek, Ray Radebaugh, Peter E. Bradley",
+            "https://www.sciencedirect.com/science/article/pii/S0017931019350343",
+            null
+        ],
+        [
+            "Research article",
+            "Modelling the fluid-flow inside a microchannel under impact loads",
+            "Journal of Fluids and Structures",
+            "L. Parras, F. J. Galindo-Rosales",
+            "https://www.sciencedirect.com/science/article/pii/S0889974620301018",
+            null
+        ],
+        [
+            "Research article",
+            "Pressure-driven microfluidic droplet formation in Newtonian and shear-thinning fluids in glass flow-focusing microchannels",
+            "International Journal of Multiphase Flow",
+            "Qi Chen, Jingkun Li, Xuefang Li",
+            "https://www.sciencedirect.com/science/article/pii/S0301932221000963",
+            null
+        ],
+        [
+            "Research article",
+            "Numerical study of rotating electro-osmotic flow of double layers with a layer of fractional second-order fluid in a microchannel",
+            "Applied Mathematics Letters",
+            "Limei Cao, Peipei Zhang, Xinhui Si",
+            "https://www.sciencedirect.com/science/article/pii/S0893965920303098",
+            null
+        ],
+        [
+            "Research article",
+            "Fluid flow and heat transfer of liquid-liquid Taylor flow in square microchannels",
+            "Applied Thermal Engineering",
+            "Ayoub Abdollahi, Stuart E. Norris, Rajnish N. Sharma",
+            "https://www.sciencedirect.com/science/article/pii/S1359431119357874",
+            null
+        ],
+        [
+            "Research article",
+            "Polymer effects on viscoelastic fluid flows in a planar constriction microchannel",
+            "Journal of Non-Newtonian Fluid Mechanics",
+            "Sen Wu, Mahmud Kamal Raihan, Xiangchun Xuan",
+            "https://www.sciencedirect.com/science/article/pii/S0377025721000331",
+            null
+        ],
+        [
+            "Research article",
+            "The effects of suspending Copper nanoparticles into Argon base fluid inside a microchannel under boiling flow condition by using of molecular dynamic simulation",
+            "Journal of Molecular Liquids",
+            "Majid Zarringhalam, Hossein Ahmadi-Danesh-Ashtiani, Reza Fazaeli",
+            "https://www.sciencedirect.com/science/article/pii/S0167732219331629",
+            null
+        ],
+        [
+            "Research article",
+            "Derivation of dispersion coefficient in an electro-osmotic flow of a viscoelastic fluid through a porous-walled microchannel",
+            "Chemical Engineering Science",
+            "Morteza Dejam",
+            "https://www.sciencedirect.com/science/article/pii/S0009250919303926",
+            null
+        ],
+        [
+            "Research article",
+            "Performance of second law in Carreau fluid flow by an inclined microchannel with radiative heated convective condition",
+            "International Communications in Heat and Mass Transfer",
+            "Macha Madhu, B. Mahanthesh, B. J. Gireesha",
+            "https://www.sciencedirect.com/science/article/pii/S073519332030289X",
+            null
+        ],
+        [
+            "Research article",
+            "Numerical study of rotating electroosmotic flow of Oldroyd-B fluid in a microchannel with slip boundary condition",
+            "Chinese Journal of Physics",
+            "Panchun Liang, Shaowei Wang, Moli Zhao",
+            "https://www.sciencedirect.com/science/article/pii/S0577907320300538",
+            null
+        ],
+        [
+            "Research article",
+            "Non-Newtonian fluid–structure interactions: Static response of a microchannel due to internal flow of a power-law fluid",
+            "Journal of Non-Newtonian Fluid Mechanics",
+            "Vishal Anand, Joshua David, Ivan C. Christov",
+            "https://www.sciencedirect.com/science/article/pii/S0377025718303343",
+            null
+        ],
+        [
+            "Research article",
+            "Rotating electroosmotic flow of power-law fluid through polyelectrolyte grafted microchannel",
+            "Colloids and Surfaces B: Biointerfaces",
+            "Maneesh Patel, S. S. Harish Kruthiventi, P. Kaushik",
+            "https://www.sciencedirect.com/science/article/pii/S0927776520302885",
+            null
+        ],
+        [
+            "Research article",
+            "A comparative numerical study on two-phase boiling fluid flow and heat transfer in the microchannel heat sink with different manifold arrangements",
+            "International Journal of Heat and Mass Transfer",
+            "Yang Luo, Jingzhi Zhang, Wei Li",
+            "https://www.sciencedirect.com/science/article/pii/S0017931020300235",
+            null
+        ],
+        [
+            "Research article",
+            "Effects of surface roughness with the spherical shape on the fluid flow of argon atoms flowing into the microchannel, under boiling condition using molecular dynamic simulation",
+            "Journal of Molecular Liquids",
+            "Yeping Peng, Majid Zarringhalam, Masoud Afrand",
+            "https://www.sciencedirect.com/science/article/pii/S0167732219330144",
+            null
+        ],
+        [
+            "Research article",
+            "Electro-osmotic flow of hydromagnetic dusty viscoelastic fluids in a microchannel propagated by peristalsis",
+            "Journal of Molecular Liquids",
+            "K. Ramesh, D. Tripathi, C. M. Khalique",
+            "https://www.sciencedirect.com/science/article/pii/S0167732219370539",
+            null
+        ],
+        [
+            "Research article",
+            "Actively homogenizing fluid distribution and slug length of liquid-liquid segmented flow in parallelized microchannels",
+            "Chemical Engineering and Processing - Process Intensification",
+            "Linda Arsenjuk, Niclas von Vietinghoff, David W. Agar",
+            "https://www.sciencedirect.com/science/article/pii/S0255270120305225",
+            null
+        ],
+        [
+            "Research article",
+            "Numerical investigation of the fluid flow and heat transfer characteristics of tree-shaped microchannel heat sink with variable cross-section",
+            "Chemical Engineering and Processing - Process Intensification",
+            "Pingnan Huang, Guanping Dong, Minqiang Pan",
+            "https://www.sciencedirect.com/science/article/pii/S0255270119310360",
+            null
+        ],
+        [
+            "Research article",
+            "Electro-osmotic oscillatory flow of viscoelastic fluids in a microchannel",
+            "Journal of Non-Newtonian Fluid Mechanics",
+            "Samir H. Sadek, Fernando T. Pinho",
+            "https://www.sciencedirect.com/science/article/pii/S0377025718302544",
+            null
+        ],
+        [
+            "Research article",
+            "Numerical investigation of fluid flow and heat transfer in trapezoidal microchannel with groove structure",
+            "International Journal of Thermal Sciences",
+            "Pankaj Kumar",
+            "https://www.sciencedirect.com/science/article/pii/S1290072918300474",
+            null
+        ],
+        [
+            "Research article",
+            "Influence of fin height on heat transfer and fluid flow characteristics of rectangular microchannel heat sink",
+            "International Journal of Heat and Mass Transfer",
+            "Yogesh K. Prajapati",
+            "https://www.sciencedirect.com/science/article/pii/S0017931019306313",
+            null
+        ],
+        [
+            "Research article",
+            "Thermohydraulic performance of microchannel heat sinks with triangular ribs on sidewalls – Part 1: Local fluid flow and heat transfer characteristics",
+            "International Journal of Heat and Mass Transfer",
+            "Lei Chai, Liang Wang, Xin Bai",
+            "https://www.sciencedirect.com/science/article/pii/S0017931018319720",
+            null
+        ],
+        [
+            "Research article",
+            "Numerical investigation of fluid flow and heat transfer of nanofluids in microchannel with longitudinal fins",
+            "Ain Shams Engineering Journal",
+            "Ayoub Abdollahi, Hussein A. Mohammed, Rajnish N. Sharma, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S2090447918300224",
+            null
+        ],
+        [
+            "Research article",
+            "Effects of structural parameters on fluid flow and heat transfer in a serpentine microchannel with fan-shaped reentrant cavities",
+            "Applied Thermal Engineering",
+            "Xianfei Liu, Hui Zhang, Zhiqiang Li",
+            "https://www.sciencedirect.com/science/article/pii/S1359431118359702",
+            null
+        ],
+        [
+            "Research article",
+            "Experimental and numerical investigations of fluid flow and heat transfer in a bioinspired surface enriched microchannel",
+            "International Journal of Thermal Sciences",
+            "Prasenjit Dey, Gaurav Hedau, Sandip K. Saha",
+            "https://www.sciencedirect.com/science/article/pii/S1290072918305933",
+            null
+        ],
+        [
+            "Research article",
+            "Numerical assessment of Ag-water nano-fluid flow in two new microchannel heatsinks: Thermal performance and thermodynamic considerations",
+            "International Communications in Heat and Mass Transfer",
+            "Liu Yang, Jia-nan Huang, Weikai Ji",
+            "https://www.sciencedirect.com/science/article/pii/S0735193319302817",
+            null
+        ],
+        [
+            "Research article",
+            "Computational analysis of the flow of pseudoplastic power-law fluids in a microchannel plate",
+            "Chinese Journal of Chemical Engineering",
+            "Saeed Mortazavi",
+            "https://www.sciencedirect.com/science/article/pii/S1004954116307388",
+            null
+        ],
+        [
+            "Research article",
+            "Investigation of fluid flow and heat transfer characteristics of parallel flow double-layer microchannel heat exchanger",
+            "Applied Thermal Engineering",
+            "Fang Zhou, Wei Zhou, Xuyang Chu",
+            "https://www.sciencedirect.com/science/article/pii/S1359431118301443",
+            null
+        ],
+        [
+            "Research article",
+            "Mass transfer in liquid-liquid Taylor flow in a microchannel: Local concentration distribution, mass transfer regime and the effect of fluid viscosity",
+            "Chemical Engineering Science",
+            "Chaoqun Yao, Haiyun Ma, Guangwen Chen",
+            "https://www.sciencedirect.com/science/article/pii/S0009250920302669",
+            null
+        ],
+        [
+            "Research article",
+            "Slug flow hydrodynamics of immiscible fluids within a rectangular microchannel towards size-controllable fabrication of dextran-based cryogel beads",
+            "Chemical Engineering Journal",
+            "Tingting Guan, Yawei Gao, Junxian Yun",
+            "https://www.sciencedirect.com/science/article/pii/S1385894719305315",
+            null
+        ],
+        [
+            "Research article",
+            "Quantitative visualization of fluid mixing in slug flow for arbitrary wall-shaped microchannel using Shannon entropy",
+            "Chemical Engineering Science",
+            "Tomohiko Kihara, Hideaki Obata, Hiroyuki Hirano",
+            "https://www.sciencedirect.com/science/article/pii/S0009250919301666",
+            null
+        ],
+        [
+            "Research article",
+            "Electroosmotic flow of power-law fluids in curved rectangular microchannel with high zeta potentials",
+            "Journal of Non-Newtonian Fluid Mechanics",
+            "Nader Nekoubin",
+            "https://www.sciencedirect.com/science/article/pii/S0377025717304640",
+            null
+        ],
+        [
+            "Research article",
+            "Numerical investigation of forced convection heat transfer and flow irreversibility in a novel heatsink with helical microchannels working with biologically synthesized water-silver nano-fluid",
+            "International Communications in Heat and Mass Transfer",
+            "Amin Shahsavar, Mohammad Mehdi Baseri, Masoud Afrand",
+            "https://www.sciencedirect.com/science/article/pii/S0735193319301903",
+            null
+        ],
+        [
+            "Research article",
+            "Numerical investigation of ﬂuid ﬂow and heat transfer in a plate microchannel heat exchanger with isosceles trapezoid-shaped reentrant cavities in the sidewall",
+            "Chemical Engineering and Processing - Process Intensification",
+            "Minqiang Pan, Yujian Zhong, Yufeng Xu",
+            "https://www.sciencedirect.com/science/article/pii/S0255270118303738",
+            null
+        ],
+        [
+            "Research article",
+            "Thermohydraulic performance of microchannel heat sinks with triangular ribs on sidewalls – Part 2: Average fluid flow and heat transfer characteristics",
+            "International Journal of Heat and Mass Transfer",
+            "Lei Chai, Liang Wang, Xin Bai",
+            "https://www.sciencedirect.com/science/article/pii/S0017931018319732",
+            null
+        ],
+        [
+            "Research article",
+            "Flow characterization of gas-liquid with different liquid properties in a Y-type microchannel using electrical resistance tomography and volume of fluid model",
+            "Journal of the Taiwan Institute of Chemical Engineers",
+            "Peng Yan, Haibo Jin, Rongyue Zhang",
+            "https://www.sciencedirect.com/science/article/pii/S1876107022001870",
+            null
+        ],
+        [
+            "Research article",
+            "Numerical investigation of the effect of electrode arrangement and geometry on electrothermal fluid flow pumping and mixing in microchannel",
+            "Chemical Engineering and Processing - Process Intensification",
+            "Arezou Khakpour, Abas Ramiar",
+            "https://www.sciencedirect.com/science/article/pii/S0255270119308694",
+            null
+        ],
+        [
+            "Research article",
+            "Measuring heat transfer performance of viscoelastic fluid flow in curved microchannel using Ti–Pt film temperature sensor",
+            "Experimental Thermal and Fluid Science",
+            "Dong-Yang Li, Xiao-Bin Li, Sang Woo Joo",
+            "https://www.sciencedirect.com/science/article/pii/S0894177716301042",
+            null
+        ],
+        [
+            "Research article",
+            "Size dependences of hydraulic resistance and heat transfer of fluid flow in elliptical microchannel heat sinks with boundary slip",
+            "International Journal of Heat and Mass Transfer",
+            "Dalei Jing, Shiyu Song, Xiaoming Wang",
+            "https://www.sciencedirect.com/science/article/pii/S001793101733942X",
+            null
+        ],
+        [
+            "Research article",
+            "Electroosmotic flow of a Phan-Thien–Tanner fluid in a wavy-wall microchannel",
+            "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
+            "L. Martínez, O. Bautista, F. Méndez",
+            "https://www.sciencedirect.com/science/article/pii/S0927775716301200",
+            null
+        ],
+        [
+            "Research article",
+            "Heat transfer and fluid flow characteristics of combined microchannel with cone-shaped micro pin fins",
+            "International Communications in Heat and Mass Transfer",
+            "Yuting Jia, Guodong Xia, Bo Cai",
+            "https://www.sciencedirect.com/science/article/pii/S0735193317302956",
+            null
+        ],
+        [
+            "Review article",
+            "Fluid flow and heat transfer of liquid-liquid two phase flow in microchannels: A review",
+            "International Communications in Heat and Mass Transfer",
+            "Ayoub Abdollahi, Rajnish N. Sharma, Ashkan Vatani",
+            "https://www.sciencedirect.com/science/article/pii/S0735193317300489",
+            null
+        ],
+        [
+            "Research article",
+            "High-frequency thermal-fluidic characterization of dynamic microchannel flow boiling instabilities: Part 1 – Rapid-bubble-growth instability at the onset of boiling",
+            "International Journal of Multiphase Flow",
+            "Todd A. Kingston, Justin A. Weibel, Suresh V. Garimella",
+            "https://www.sciencedirect.com/science/article/pii/S0301932218300417",
+            null
+        ],
+        [
+            "Research article",
+            "Experimental study of microchannel flow for non-Newtonian fluid in the presence of salt",
+            "Experimental Thermal and Fluid Science",
+            "Y. B. Lu, G. H. Tang, W. Q. Tao",
+            "https://www.sciencedirect.com/science/article/pii/S0894177715003490",
+            null
+        ],
+        [
+            "Research article",
+            "Numerical study of fluid flow and heat transfer for flow of Cu-Al2O3-water hybrid nanofluid in a microchannel heat sink",
+            "Materials Today: Proceedings",
+            "V. Murali Krishna, M. Sandeep Kumar, R. Mounika",
+            "https://www.sciencedirect.com/science/article/pii/S2214785321047799",
+            null
+        ],
+        [
+            "Short communication",
+            "A note on “Start-up electroosmotic flow of Maxwell fluids in a rectangular microchannel with high zeta potentials” [J. Non-Newton Fluid Mech. 227 (2016) 17–29]",
+            "Journal of Non-Newtonian Fluid Mechanics",
+            "E. Jiménez, J. Escandón, F. Méndez",
+            "https://www.sciencedirect.com/science/article/pii/S0377025716300477",
+            null
+        ],
+        [
+            "Research article",
+            "Convective heat transfer and entropy generation analysis of non-Newtonian power-law fluid flows in parallel-plate and circular microchannels under slip boundary conditions",
+            "International Journal of Thermal Sciences",
+            "Mehdi Kiyasatfar",
+            "https://www.sciencedirect.com/science/article/pii/S1290072916316660",
+            null
+        ],
+        [
+            "Research article",
+            "Measurement of low Reynolds number flow emanating from a Turing pattern microchannel array using a modified Bernoulli equation technique",
+            "Experimental Thermal and Fluid Science",
+            "Ercan M. Dede, Yuqing Zhou, Tsuyoshi Nomura, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S0894177722001224",
+            null
+        ],
+        [
+            "Research article",
+            "Electroosmotic flow of a power law fluid in an elliptic microchannel",
+            "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
+            "Bhadri Srinivas",
+            "https://www.sciencedirect.com/science/article/pii/S0927775715304015",
+            null
+        ],
+        [
+            "Research article",
+            "Flow patterns of liquid–liquid two-phase flow in non-Newtonian fluids in rectangular microchannels",
+            "Chemical Engineering and Processing: Process Intensification",
+            "Taotao Fu, Lijuan Wei, Youguang Ma",
+            "https://www.sciencedirect.com/science/article/pii/S025527011500077X",
+            null
+        ],
+        [
+            "Research article",
+            "Hydrodynamics and mass transfer characteristics of liquid–liquid slug flow in microchannels: The effects of temperature, fluid properties and channel size",
+            "Chemical Engineering Journal",
+            "Qi Zhang, Hongchen Liu, Guangwen Chen",
+            "https://www.sciencedirect.com/science/article/pii/S1385894718319958",
+            null
+        ],
+        [
+            "Research article",
+            "Abnormal microchannel convective fluid flow near the gas–liquid critical point",
+            "Physica A: Statistical Mechanics and its Applications",
+            "Lin Chen, Xin-Rong Zhang, Shigenao Maruyama",
+            "https://www.sciencedirect.com/science/article/pii/S0378437113010443",
+            null
+        ],
+        [
+            "Research article",
+            "Transient electroosmotic flow of Maxwell fluids in a slit microchannel with asymmetric zeta potentials",
+            "European Journal of Mechanics - B/Fluids",
+            "J. Escandón, E. Jiménez, F. Méndez",
+            "https://www.sciencedirect.com/science/article/pii/S0997754615000679",
+            null
+        ],
+        [
+            "Research article",
+            "Entropy generation in purely electroosmotic flows of non-Newtonian fluids in a microchannel",
+            "Energy",
+            "J. Escandón, O. Bautista, F. Méndez",
+            "https://www.sciencedirect.com/science/article/pii/S0360544213003411",
+            null
+        ],
+        [
+            "Research article",
+            "High-frequency thermal-fluidic characterization of dynamic microchannel flow boiling instabilities: Part 2 – Impact of operating conditions on instability type and severity",
+            "International Journal of Multiphase Flow",
+            "Todd A. Kingston, Justin A. Weibel, Suresh V. Garimella",
+            "https://www.sciencedirect.com/science/article/pii/S0301932218300727",
+            null
+        ],
+        [
+            "Research article",
+            "Electromagnetohydrodynamic thermo-fluidic transport in a porous microchannel with wall roughness",
+            "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
+            "A. Rana, M. Reza, G. C. Shit",
+            "https://www.sciencedirect.com/science/article/pii/S0927775722010913",
+            null
+        ],
+        [
+            "Research article",
+            "Numerical study on the heat transfer performance of non-Newtonian fluid flow in a manifold microchannel heat sink",
+            "Applied Thermal Engineering",
+            "Si-Ning Li, Hong-Na Zhang, Sang Woo Joo",
+            "https://www.sciencedirect.com/science/article/pii/S1359431116322761",
+            null
+        ],
+        [
+            "Research article",
+            "Start-up electroosmotic flow of Maxwell fluids in a rectangular microchannel with high zeta potentials",
+            "Journal of Non-Newtonian Fluid Mechanics",
+            "E. Jiménez, J. Escandón, F. Méndez",
+            "https://www.sciencedirect.com/science/article/pii/S0377025715001871",
+            null
+        ],
+        [
+            "Research article",
+            "Numerical study of fluid flow and heat transfer phenomenon within microchannels comprising different superhydrophobic structures",
+            "International Journal of Thermal Sciences",
+            "Masoud Kharati-Koopaee, Mohammad Reza Akhtari",
+            "https://www.sciencedirect.com/science/article/pii/S1290072917304143",
+            null
+        ],
+        [
+            "Research article",
+            "Effects of different geometric structures on fluid flow and heat transfer performance in microchannel heat sinks",
+            "International Journal of Heat and Mass Transfer",
+            "G. D. Xia, J. Jiang, D. D. Ma",
+            "https://www.sciencedirect.com/science/article/pii/S0017931014008400",
+            null
+        ],
+        [
+            "Research article",
+            "Flow structure and heat transfer of non-Newtonian fluids in microchannel heat sinks with dimples and protrusions",
+            "Applied Thermal Engineering",
+            "Ping Li, Di Zhang, Gongnan Xie",
+            "https://www.sciencedirect.com/science/article/pii/S1359431115011783",
+            null
+        ],
+        [
+            "Research article",
+            "Characteristics of heat transfer and fluid flow in a fractal multilayer silicon microchannel",
+            "International Communications in Heat and Mass Transfer",
+            "Shanglong Xu, Yue Li, Lili Yang",
+            "https://www.sciencedirect.com/science/article/pii/S0735193315002729",
+            null
+        ],
+        [
+            "Research article",
+            "Numerical simulation of stability behaviors and heat transfer characteristics for near-critical fluid microchannel flows",
+            "Energy Conversion and Management",
+            "Lin Chen, Xin-Rong Zhang, Shigenao Maruyama",
+            "https://www.sciencedirect.com/science/article/pii/S0196890415011346",
+            null
+        ],
+        [
+            "Research article",
+            "Dynamics of suspended microchannel resonators conveying opposite internal fluid flow: Stability, frequency shift and energy dissipation",
+            "Journal of Sound and Vibration",
+            "Wen-Ming Zhang, Han Yan, Guang Meng",
+            "https://www.sciencedirect.com/science/article/pii/S0022460X16000584",
+            null
+        ],
+        [
+            "Research article",
+            "Joule heating effect on a purely electroosmotic flow of non-Newtonian fluids in a slit microchannel",
+            "Journal of Non-Newtonian Fluid Mechanics",
+            "S. Sánchez, J. Arcos, F. Méndez",
+            "https://www.sciencedirect.com/science/article/pii/S0377025712002224",
+            null
+        ],
+        [
+            "Research article",
+            "AC electroosmotic flow of generalized Maxwell fluids in a rectangular microchannel",
+            "Journal of Non-Newtonian Fluid Mechanics",
+            "Yong-jun Jian, Quan-sheng Liu, Lian-gui Yang",
+            "https://www.sciencedirect.com/science/article/pii/S0377025711002023",
+            null
+        ],
+        [
+            "Research article",
+            "Fluid flow and heat transfer characteristics of liquid cooling microchannels in LTCC multilayered packaging substrate",
+            "International Journal of Heat and Mass Transfer",
+            "Lan-Ying Zhang, Yang-Fei Zhang, Shu-Lin Bai",
+            "https://www.sciencedirect.com/science/article/pii/S0017931015000113",
+            null
+        ]
+    ]
+}
