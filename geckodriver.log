@@ -306,3 +306,56 @@ JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundEr
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
 1658597060489	Marionette	INFO	Stopped listening on port 63277
+1658597085701	geckodriver	INFO	Listening on 127.0.0.1:64215
+1658597088737	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64216" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofileICiQmN"
+1658597089059	Marionette	INFO	Marionette enabled
+1658597089063	Marionette	INFO	Listening on port 64232
+WebDriver BiDi listening on ws://localhost:64216
+Read port: 64232
+1658597089226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofileICiQmN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64216/devtools/browser/5c1e229b-3e08-440c-a68d-8c8104f6f310
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sciencedirect.com"
+1658597095025	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1658597770654	Marionette	INFO	Stopped listening on port 64232
+oundError("Could not open the file at C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofile3Fvn3N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64612/devtools/browser/3db9e601-1f69-4e27-9c41-052103de4e1b
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sciencedirect.com"
+1658597309206	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658597319959	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658597768328	Marionette	INFO	Stopped listening on port 64659
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "65095" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofile8TVwTA"
+1658597517577	Marionette	INFO	Marionette enabled
+1658597517581	Marionette	INFO	Listening on port 65109
+WebDriver BiDi listening on ws://localhost:65095
+Read port: 65109
+1658597517761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUBHRA~1\\AppData\\Local\\Temp\\rust_mozprofile8TVwTA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65095/devtools/browser/27101756-ef7e-4e67-a781-817920c4a1d8
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/051ee00d21885e5e17669c7c4cba217bba6ccf4e/client.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sciencedirect.com"
+1658597769424	Marionette	INFO	Stopped listening on port 65109
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
