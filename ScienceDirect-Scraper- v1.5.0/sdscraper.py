@@ -9,7 +9,10 @@ from random import randrange
 
 class ScienceDirectScraper():
     """
-    Science-Direct Articles Scraper - v1.5.0
+    Science-Direct Articles Scraper. 
+    @Version:       v1.5.0
+    @Last updated:  24 July 2022.
+    @Author:        Subhrajit Guchait.
     """
     def __init__(self):
         self.driver = webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install()))
@@ -20,5 +23,7 @@ class ScienceDirectScraper():
 
         
         """
+        #default keywords:
+        def_search_keys = ['Microchannel', 'Fluid', 'Flow', 'Analysis']
         self.driver.get(f'https://www.sciencedirect.com/search')
 
