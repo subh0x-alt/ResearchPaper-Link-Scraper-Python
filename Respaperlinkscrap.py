@@ -41,29 +41,32 @@ except:
     print('Text SearchBox not found!')
     
 # TODO: Make a search by clicking the search button
+#FIXME: Make the XPaths concise.
 
 try:
     sleep(2) # seconds
-    bttn_Xpath = "/html/body/div/div/div/div/div/div/div/section/div/div[1]/div/div/div/div[2]/div/form/div/div/div[4]/div/div[2]/button"
+    # bttn_Xpath = "/html/body/div/div/div/div/div/div/div/section/div/div[1]/div/div/div/div[2]/div/form/div/div/div[4]/div/div[2]/button"
+    bttn_Xpath = "//button[@class = 'button button-primary move-right']"
     driver.find_element(By.XPATH, value=bttn_Xpath).click()
 except:
     print('Text Search Button not found!')
 
 # Wait for the page to load
-sleep(randrange(10,15))# seconds
+sleep(randrange(5,8))# seconds
 
-bttn_Xpath = "/html/body/div[1]/div/div/div/div/div/div/section/div/div[2]/div[2]/div[1]/div[2]/div[3]/div[1]/ol/li[3]/a"
+# bttn_Xpath = "/html/body/div[1]/div/div/div/div/div/div/section/div/div[2]/div[2]/div[1]/div[2]/div[3]/div[1]/ol/li[3]/a"
+bttn_Xpath = "//a[@data-aa-name='srp-100-results-per-page']"
 driver.find_element(By.XPATH, value=bttn_Xpath).click()
 
 # Wait for the page to load
-sleep(randrange(25,30))# seconds
+sleep(randrange(5,10))# seconds
 
 ## Intitialize empty lists to store data
 articles_type = []
 titles = []
 authors = []
 journals = []
-# journal_infos = []
+journal_infos = []
 urls = []
 # Research paper digital object identifier[doi] link
 doi_links = []
@@ -77,12 +80,11 @@ for article in article_containers:
         title = article.find_element(By.CSS_SELECTOR, '.anchor result-list-title-link u-font-serif text-s anchor-default'.replace(' ', '.')).text
         journal = article.find_element(By.CSS_SELECTOR, '.anchor subtype-srctitle-link anchor-default anchor-has-inherit-color'.replace(' ', '.')).text
         # FIXME: Get the Journal info
-        # journal_info = article.find_elements(By)
-        # journo = []
-        # for j in journal_info:
-        #     journo.append(j)
-        # journ_inf = ", ".join(journo)
-        # FIXME: Get the Author List displayed on the website 
+        article.find_element(By.XPATH, "//button [@data-aa-button='srp-show-hidden-volume-issue-info']").click()
+        journal_info = article.find_elements(By.XPATH, "//span[@class='hidden-fields']")
+        for j in journal_info:
+            journo = j.text
+        # FIXME: Get the Author List displayed on the website ***FIXED
         # Working on the authors list.
         article_auth = []
         author = article.find_elements(By.TAG_NAME, 'li')
@@ -92,12 +94,12 @@ for article in article_containers:
         art_auth = ", ".join(article_auth)
 
         url = to_raw(article.find_element(By.CSS_SELECTOR, '.anchor result-list-title-link u-font-serif text-s anchor-default'.replace(' ', '.')).get_attribute('href'))
-        # FIXME: doi_link is not getting scraped** Need a FIX
-        doi_link = article.find_element(By.TAG_NAME, 'a').get_attribute('data-doi')
+        # FIXME: doi_link is not getting scraped ***FIXED
+        doi_link = article.find_element(By.XPATH, "//li[@class= 'ResultItem col-xs-24 push-m']").get_attribute('data-doi')
         articles_type.append(article_type)
         titles.append(title)
         journals.append(journal)
-        # journal_infos.append(journal_info)
+        journal_infos.append(journo)
         authors.append(art_auth)
         urls.append(url)
         doi_links.append(doi_link)
@@ -105,7 +107,7 @@ for article in article_containers:
         print(f'Error while scraping data: {err}')
         continue
 
-    article_container_df = pd.DataFrame({'article_type': articles_type, 'title': titles, 'journal': journals, 'authors':authors, 'url': urls, 'doi-link': doi_links})
+    article_container_df = pd.DataFrame({'article-type': articles_type, 'title': titles, 'journal': journals, 'journal-info': journal_infos, 'authors':authors, 'url': urls, 'doi-link': doi_links})
 # article_container_df = pd.DataFrame({'article_type': articles_type, 'title': titles, 'journal': journals, 'doi-link': doi_links})
 
 # OPTIMIZE: Task:-1 Optimize and clean the entire code using classes and functions.

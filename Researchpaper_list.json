@@ -1,8 +1,9 @@
 {
     "columns": [
-        "article_type",
+        "article-type",
         "title",
         "journal",
+        "journal-info",
         "authors",
         "url",
         "doi-link"
@@ -112,803 +113,903 @@
     "data": [
         [
             "Research article",
-            "Investigation of irradiation parameters on fluid flow in microchannels fabricated on polymethyl methacrylate by a KrF laser",
-            "Optik",
-            "Mitra Vesal, Hedieh Pazokian, Mahmoud Mollabashi",
-            "https://www.sciencedirect.com/science/article/pii/S0030402622006829",
-            null
+            "A large multi-group decision-making technique for prioritizing the big data-driven circular economy practices in the automobile component manufacturing industry",
+            "Technological Forecasting and Social Change",
+            "Volume 165 (Cover date: April 2021)Article 120567",
+            "Sachin S. Kamble, Amine Belhadi, Surabhi Verma, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S0040162520313937",
+            "10.1016/j.techfore.2020.120567"
         ],
         [
             "Research article",
-            "Stability and uniformity of gas–liquid two-phase flow in shear-thinning fluids in parallelized microchannels",
-            "Chemical Engineering Journal",
-            "He Wang, Langyu Liu, Taotao Fu",
-            "https://www.sciencedirect.com/science/article/pii/S138589472202174X",
-            null
+            "Facilitating industrial symbiosis to achieve circular economy using value-added by design: A case study in transforming the automobile industry sheet metal waste-flow into Voronoi facade systems",
+            "Journal of Cleaner Production",
+            "Volume 234 (Cover date: 10 October 2019)Pages 1033-1044",
+            "Ahmed K. Ali, Yi Wang, Jorge L. Alvarado",
+            "https://www.sciencedirect.com/science/article/pii/S0959652619321638",
+            "10.1016/j.techfore.2020.120567"
         ],
         [
             "Research article",
-            "Effect of asymmetric fluid flow distribution on flow boiling in a microchannel heat sink – An experimental investigation",
-            "Applied Thermal Engineering",
-            "Ritunesh Kumar, Gurjeet Singh, Dariusz Mikielewicz",
-            "https://www.sciencedirect.com/science/article/pii/S1359431122006548",
-            null
-        ],
-        [
-            "Research article",
-            "Numerical study on heat transfer enhancement by viscoelastic fluid pulsating laminar flow in rectangular microchannel heat sinks",
-            "Applied Thermal Engineering",
-            "Zengkun Zhan, Lixia Chen, Fengchen Li",
-            "https://www.sciencedirect.com/science/article/pii/S1359431122006780",
-            null
-        ],
-        [
-            "Research article",
-            "Electroosmotic pressure-driven oscillatory flow and mass transport of Oldroyd-B fluid under high zeta potential and slippage conditions in microchannels",
-            "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
-            "Sujit Saha, Balaram Kundu",
-            "https://www.sciencedirect.com/science/article/pii/S0927775722008251",
-            null
-        ],
-        [
-            "Research article",
-            "Electroosmotic and pressure-driven slip flow of fractional viscoelastic fluids in microchannels",
-            "Applied Mathematics and Computation",
-            "Shujuan An, Kai Tian, Yongjun Jian",
-            "https://www.sciencedirect.com/science/article/pii/S0096300322001576",
-            null
+            "Contextual relationships among drivers and barriers to circular economy: An integrated ISM and DEMATEL approach",
+            "Sustainable Operations and Computers",
+            "Volume 3 (Cover date: 2022)Pages 43-53",
+            "Shrinath Manoharan, Venkata Sai Kumar Pulimi, Syed Mithun Ali, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S266641272100043X",
+            "10.1016/j.techfore.2020.120567"
         ],
         [
             "Review article",
-            "Fluid flow and heat transfer in microchannel heat sinks: Modelling review and recent progress",
-            "Thermal Science and Engineering Progress",
-            "Jie Gao, Zhuohuan Hu, Hongwei Wu, Download PDF",
-            "https://www.sciencedirect.com/science/article/pii/S2451904922000117",
-            null
+            "Circular economy business models and technology management strategies in the wind industry: Sustainability potential, industrial challenges and opportunities",
+            "Renewable and Sustainable Energy Reviews",
+            "Volume 163 (Cover date: July 2022)Article 112523",
+            "Joan Manuel F. Mendoza, Alejandro Gallego-Schmid, Dorleta Ibarra, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S1364032122004257",
+            "10.1016/j.techfore.2020.120567"
         ],
         [
             "Research article",
-            "Thermodiffusive effect on the local Debye-length in an electroosmotic flow of a viscoelastic fluid in a slit microchannel",
-            "International Journal of Heat and Mass Transfer",
-            "A. Hernández, J. Arcos, F. Méndez",
-            "https://www.sciencedirect.com/science/article/pii/S0017931022000047",
-            null
+            "Accelerating sustainability transition in St. Petersburg (Russia) through digitalization-based circular economy in waste recycling industry: A strategy to promote carbon neutrality in era of Industry 4.0",
+            "Journal of Cleaner Production",
+            "Volume 363 (Cover date: 20 August 2022)Article 132452",
+            "Tonni Agustiono Kurniawan, Aleksandra Maiurova, Hui Hwang Goh",
+            "https://www.sciencedirect.com/science/article/pii/S0959652622020534",
+            "10.1016/j.techfore.2020.120567"
         ],
         [
             "Research article",
-            "Heat transfer and fluid flow analysis of microchannel heat sinks with periodic vertical porous ribs",
-            "Applied Thermal Engineering",
-            "Mohammad Shamsoddini Lori, Kambiz Vafai",
-            "https://www.sciencedirect.com/science/article/pii/S1359431122000266",
-            null
+            "The DigiPrime KPIs’ framework for a circular economy transition in the automotive industry",
+            "Procedia Manufacturing",
+            "Volume 54 (Cover date: 2021)Pages 302-307",
+            "Eleni Kanellou, Konstantinos Alexakis, Dimitris Askounis, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S2351978921001979",
+            "10.1016/j.techfore.2020.120567"
         ],
         [
             "Research article",
-            "Unsteady electromagnetohydrodynamic flow of couple stress fluid through a microchannel: A theoretical analysis",
-            "European Journal of Mechanics - B/Fluids",
-            "Thota Siva, Srinivas Jangili, Pranab Kumar Mondal",
-            "https://www.sciencedirect.com/science/article/pii/S0997754622000607",
-            null
+            "Circular economy for fashion industry: Use of waste from the food industry for the production of biotextiles",
+            "Technological Forecasting and Social Change",
+            "Volume 169 (Cover date: August 2021)Article 120858",
+            "Ana Paula Provin, Ana Regina de Aguiar Dutra, e Anelise Leal Vieira Cubas",
+            "https://www.sciencedirect.com/science/article/pii/S0040162521002900",
+            "10.1016/j.techfore.2020.120567"
         ],
         [
             "Research article",
-            "Investigation of fluid flow and heat transfer characteristics in a microchannel heat sink with double-layered staggered cavities",
-            "International Journal of Heat and Mass Transfer",
-            "Lin Liu, Ziyong Cao, Te Sun",
-            "https://www.sciencedirect.com/science/article/pii/S0017931022000175",
-            null
+            "Industry 4.0, cleaner production and circular economy: An integrative framework for evaluating ethical and sustainable business performance of manufacturing organizations",
+            "Journal of Cleaner Production",
+            "Volume 295 (Cover date: 1 May 2021)Article 126253",
+            "Himanshu Gupta, Ashwani Kumar, Pratibha Wasan",
+            "https://www.sciencedirect.com/science/article/pii/S095965262100473X",
+            "10.1016/j.techfore.2020.120567"
         ],
         [
             "Research article",
-            "Numerical analysis of Carreau fluid flow over a vertical porous microchannel with entropy generation",
-            "Partial Differential Equations in Applied Mathematics",
-            "Srinivas Reedy C., P. Srihari, Kishan Naikoti, Download PDF",
-            "https://www.sciencedirect.com/science/article/pii/S2666818122000249",
-            null
+            "Key resources for industry 4.0 adoption and its effect on sustainable production and circular economy: An empirical study",
+            "Journal of Cleaner Production",
+            "Volume 281 (Cover date: 25 January 2021)Article 125233",
+            "Surajit Bag, Gunjan Yadav, Krishan Kumar Kataria",
+            "https://www.sciencedirect.com/science/article/pii/S095965262035277X",
+            "10.1016/j.techfore.2020.120567"
         ],
         [
             "Research article",
-            "Taylor vortex center, film thickness, velocity and frequency of circulations in slugs and plugs for non-Newtonian and Newtonian fluids in two-phase Taylor flow in microchannels",
-            "Chemical Engineering Science",
-            "Rufat Sh. Abiev",
-            "https://www.sciencedirect.com/science/article/pii/S0009250921009453",
-            null
+            "Analyzing cause and effect relationships among drivers and barriers to circular economy implementation in the context of an emerging economy",
+            "Journal of Cleaner Production",
+            "Volume 364 (Cover date: 1 September 2022)Article 132618",
+            "Sharfuddin Ahmed Khan, Muhammad Shujaat Mubarik, Sanjoy Kumar Paul",
+            "https://www.sciencedirect.com/science/article/pii/S095965262202217X",
+            "10.1016/j.techfore.2020.120567"
         ],
         [
             "Research article",
-            "Fluid flow and convective heat transfer in a rotating rectangular microchannel with various aspect ratios",
-            "International Journal of Thermal Sciences",
-            "A. Sohankar, A. Joulaei, M. Mahmoodi",
-            "https://www.sciencedirect.com/science/article/pii/S1290072921004191",
-            null
+            "Integrating the circular economy and industry 4.0 for sustainable development: Implications for responsible footwear production in a big data-driven world",
+            "Technological Forecasting and Social Change",
+            "Volume 175 (Cover date: February 2022)Article 121335",
+            "Ashish Dwivedi, Md. Abdul Moktadir, Daniel Estima de Carvalho",
+            "https://www.sciencedirect.com/science/article/pii/S0040162521007666",
+            "10.1016/j.techfore.2020.120567"
         ],
         [
             "Research article",
-            "Numerical simulations for electro-osmotic flow of PTT fluids in diverging microchannel",
-            "Materials Today: Proceedings",
-            "Mohit Trivedi, Saurabh Maurya, Neelkanth Nirmalkar",
-            "https://www.sciencedirect.com/science/article/pii/S221478532108175X",
-            null
+            "Optimising the geospatial configuration of a future lithium ion battery recycling industry in the transition to electric vehicles and a circular economy",
+            "Applied Energy",
+            "Volume 321 (Cover date: 1 September 2022)Article 119230",
+            "Viet Nguyen-Tien, Qiang Dai, Robert J. R. Elliott, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S0306261922005943",
+            "10.1016/j.techfore.2020.120567"
         ],
         [
             "Research article",
-            "Analytical closed-form solution for fluid flow through microchannel heat sinks including axial conduction",
-            "International Communications in Heat and Mass Transfer",
-            "Indrasis Mitra, Indranil Ghosh",
-            "https://www.sciencedirect.com/science/article/pii/S0735193321006254",
-            null
+            "Circular economy to ensure production operational sustainability: A green-lean approach",
+            "Sustainable Production and Consumption",
+            "Volume 30 (Cover date: March 2022)Pages 130-144",
+            "Ming K. Lim, Ming Lai, Sir Yee Lee",
+            "https://www.sciencedirect.com/science/article/pii/S2352550921003481",
+            "10.1016/j.techfore.2020.120567"
         ],
         [
             "Research article",
-            "Numerical studies on the hydraulic and mixing performances of fluid flow around a cylinder in microchannel with vertical flexible flag",
-            "Chemical Engineering Journal",
-            "Dalei Jing, Xuekuan Zhan",
-            "https://www.sciencedirect.com/science/article/pii/S138589472104585X",
-            null
+            "The impact of government policies and steel recycling companies' performance on sustainable management in a circular economy",
+            "Resources Policy",
+            "Volume 77 (Cover date: August 2022)Article 102663",
+            "Amirhossein Taghipour, Wareerath Akkalatham, Alexandros I. Stefanakis",
+            "https://www.sciencedirect.com/science/article/pii/S0301420722001118",
+            "10.1016/j.techfore.2020.120567"
         ],
         [
             "Research article",
-            "Thermal analysis of MHD Williamson fluid flow through a microchannel",
-            "International Communications in Heat and Mass Transfer",
-            "N. S. Shashikumar, Macha Madhu, Naikoti Kishan",
-            "https://www.sciencedirect.com/science/article/pii/S0735193321004759",
-            null
-        ],
-        [
-            "Research article",
-            "Pressure drop and flow pattern of gas-non-Newtonian fluid two-phase flow in a square microchannel",
-            "Chemical Engineering Research and Design",
-            "Kai Feng, Huichen Zhang",
-            "https://www.sciencedirect.com/science/article/pii/S0263876221002884",
-            null
-        ],
-        [
-            "Research article",
-            "Mathematical model of two-phase Taylor flow hydrodynamics for four combinations of non-Newtonian and Newtonian fluids in microchannels",
-            "Chemical Engineering Science",
-            "Rufat Sh. Abiev",
-            "https://www.sciencedirect.com/science/article/pii/S0009250921004954",
-            null
-        ],
-        [
-            "Research article",
-            "Insight into Newtonian fluid flow and heat transfer in vertical microchannel subject to rhythmic membrane contraction due to pressure gradient and buoyancy forces",
-            "International Journal of Heat and Mass Transfer",
-            "D. S. Bhandari, Dharmendra Tripathi, J. Prakash",
-            "https://www.sciencedirect.com/science/article/pii/S001793102101348X",
-            null
-        ],
-        [
-            "Research article",
-            "Effects of geometric parameters of circular pin-fins on fluid flow and heat transfer in an interrupted microchannel heat sink",
-            "International Journal of Thermal Sciences",
-            "Zhenfei Feng, Zhenjun Hu, Jinxin Zhang",
-            "https://www.sciencedirect.com/science/article/pii/S1290072921001228",
-            null
-        ],
-        [
-            "Research article",
-            "CFD analysis for heat transfer and fluid flow in microchannel heat sink with micro inserts",
-            "Materials Today: Proceedings",
-            "Shailesh Ranjan Kumar, Satyendrta Singh",
-            "https://www.sciencedirect.com/science/article/pii/S2214785321015844",
-            null
-        ],
-        [
-            "Research article",
-            "Influence of finite size of ions on thermal transport of a simultaneous electrokinetic-pressure driven flow of power-law fluids in a slit microchannel",
-            "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
-            "Payam Fadaei, Hamid Niazmand, Mohammad Amin Raoufi",
-            "https://www.sciencedirect.com/science/article/pii/S092777572101726X",
-            null
-        ],
-        [
-            "Research article",
-            "Numerical study and Taguchi optimization of fluid mixing by a microheater-modulated alternating current electrothermal flow in a Y-shape microchannel",
-            "Sensors and Actuators B: Chemical",
-            "Sumin Park, Han-Sheng Chuang, Jae-Sung Kwon",
-            "https://www.sciencedirect.com/science/article/pii/S0925400520315823",
-            null
-        ],
-        [
-            "Research article",
-            "Characteristics of heat transfer and fluid flow in microchannel heat sinks with rectangular grooves and different shaped ribs",
-            "Alexandria Engineering Journal",
-            "Qifeng Zhu, Kunpeng Chang, Yangyang Jin, Download PDF",
-            "https://www.sciencedirect.com/science/article/pii/S1110016820304014",
-            null
-        ],
-        [
-            "Research article",
-            "Computational study of rib shape and configuration for heat transfer and fluid flow characteristics of microchannel heat sinks with fan-shaped cavities",
-            "Applied Thermal Engineering",
-            "Qifeng Zhu, Yangyang Jin, Huixue Xia",
-            "https://www.sciencedirect.com/science/article/pii/S1359431121006104",
-            null
-        ],
-        [
-            "Research article",
-            "Fluid flow and heat transfer characteristics of microchannel heat sinks with different groove shapes",
-            "International Journal of Thermal Sciences",
-            "Qifeng Zhu, Huixue Xia, Yangyang Jin",
-            "https://www.sciencedirect.com/science/article/pii/S1290072920311662",
-            null
-        ],
-        [
-            "Research article",
-            "Fluid flow and heat transfer in microchannel with porous bio-inspired roughness",
-            "International Journal of Thermal Sciences",
-            "Prasenjit Dey, Sandip Kr Saha",
-            "https://www.sciencedirect.com/science/article/pii/S1290072920311741",
-            null
-        ],
-        [
-            "Short communication",
-            "Heat transfer intensification in MEMS two-fluid parallel flow heat exchangers by embedding pin fins in microchannels",
-            "International Journal of Thermofluids",
-            "Fadi Alnaimat, Issah M. AlHamad, Bobby Mathew, Download PDF",
-            "https://www.sciencedirect.com/science/article/pii/S2666202720300355",
-            null
-        ],
-        [
-            "Research article",
-            "Mass transfer through a concentric-annulus microchannel driven by an oscillatory electroosmotic flow of a Maxwell fluid",
-            "Journal of Non-Newtonian Fluid Mechanics",
-            "M. Peralta, J. Arcos, O. Bautista",
-            "https://www.sciencedirect.com/science/article/pii/S0377025720300495",
-            null
-        ],
-        [
-            "Research article",
-            "Integral transform analysis of microchannel fluid flow: Irregular geometry estimation using velocimetry data",
-            "Applied Mathematical Modelling",
-            "I. F. Pinheiro, G. Puccetti, L. A. Sphaier",
-            "https://www.sciencedirect.com/science/article/pii/S0307904X20305552",
-            null
-        ],
-        [
-            "Research article",
-            "Heat stream in electroosmotic bio-fluid flow in straight microchannel via peristalsis",
-            "International Communications in Heat and Mass Transfer",
-            "S. Noreen, S. Waheed, D. Tripathi",
-            "https://www.sciencedirect.com/science/article/pii/S0735193321000749",
-            null
-        ],
-        [
-            "Research article",
-            "The slip flow of generalized Maxwell fluids with time-distributed characteristics in a rotating microchannel",
-            "Applied Mathematics Letters",
-            "Chenqing Feng, Xinhui Si, Beibei Zhu",
-            "https://www.sciencedirect.com/science/article/pii/S0893965921001348",
-            null
-        ],
-        [
-            "Research article",
-            "A new method for heat transfer coefficient measurements of single-phase fluids during laminar flow in microchannels",
-            "International Journal of Heat and Mass Transfer",
-            "Seungwhan Baek, Ray Radebaugh, Peter E. Bradley",
-            "https://www.sciencedirect.com/science/article/pii/S0017931019350343",
-            null
-        ],
-        [
-            "Research article",
-            "Modelling the fluid-flow inside a microchannel under impact loads",
-            "Journal of Fluids and Structures",
-            "L. Parras, F. J. Galindo-Rosales",
-            "https://www.sciencedirect.com/science/article/pii/S0889974620301018",
-            null
-        ],
-        [
-            "Research article",
-            "Pressure-driven microfluidic droplet formation in Newtonian and shear-thinning fluids in glass flow-focusing microchannels",
-            "International Journal of Multiphase Flow",
-            "Qi Chen, Jingkun Li, Xuefang Li",
-            "https://www.sciencedirect.com/science/article/pii/S0301932221000963",
-            null
-        ],
-        [
-            "Research article",
-            "Numerical study of rotating electro-osmotic flow of double layers with a layer of fractional second-order fluid in a microchannel",
-            "Applied Mathematics Letters",
-            "Limei Cao, Peipei Zhang, Xinhui Si",
-            "https://www.sciencedirect.com/science/article/pii/S0893965920303098",
-            null
-        ],
-        [
-            "Research article",
-            "Fluid flow and heat transfer of liquid-liquid Taylor flow in square microchannels",
-            "Applied Thermal Engineering",
-            "Ayoub Abdollahi, Stuart E. Norris, Rajnish N. Sharma",
-            "https://www.sciencedirect.com/science/article/pii/S1359431119357874",
-            null
-        ],
-        [
-            "Research article",
-            "Polymer effects on viscoelastic fluid flows in a planar constriction microchannel",
-            "Journal of Non-Newtonian Fluid Mechanics",
-            "Sen Wu, Mahmud Kamal Raihan, Xiangchun Xuan",
-            "https://www.sciencedirect.com/science/article/pii/S0377025721000331",
-            null
-        ],
-        [
-            "Research article",
-            "The effects of suspending Copper nanoparticles into Argon base fluid inside a microchannel under boiling flow condition by using of molecular dynamic simulation",
-            "Journal of Molecular Liquids",
-            "Majid Zarringhalam, Hossein Ahmadi-Danesh-Ashtiani, Reza Fazaeli",
-            "https://www.sciencedirect.com/science/article/pii/S0167732219331629",
-            null
-        ],
-        [
-            "Research article",
-            "Derivation of dispersion coefficient in an electro-osmotic flow of a viscoelastic fluid through a porous-walled microchannel",
-            "Chemical Engineering Science",
-            "Morteza Dejam",
-            "https://www.sciencedirect.com/science/article/pii/S0009250919303926",
-            null
-        ],
-        [
-            "Research article",
-            "Performance of second law in Carreau fluid flow by an inclined microchannel with radiative heated convective condition",
-            "International Communications in Heat and Mass Transfer",
-            "Macha Madhu, B. Mahanthesh, B. J. Gireesha",
-            "https://www.sciencedirect.com/science/article/pii/S073519332030289X",
-            null
-        ],
-        [
-            "Research article",
-            "Numerical study of rotating electroosmotic flow of Oldroyd-B fluid in a microchannel with slip boundary condition",
-            "Chinese Journal of Physics",
-            "Panchun Liang, Shaowei Wang, Moli Zhao",
-            "https://www.sciencedirect.com/science/article/pii/S0577907320300538",
-            null
-        ],
-        [
-            "Research article",
-            "Non-Newtonian fluid–structure interactions: Static response of a microchannel due to internal flow of a power-law fluid",
-            "Journal of Non-Newtonian Fluid Mechanics",
-            "Vishal Anand, Joshua David, Ivan C. Christov",
-            "https://www.sciencedirect.com/science/article/pii/S0377025718303343",
-            null
-        ],
-        [
-            "Research article",
-            "Rotating electroosmotic flow of power-law fluid through polyelectrolyte grafted microchannel",
-            "Colloids and Surfaces B: Biointerfaces",
-            "Maneesh Patel, S. S. Harish Kruthiventi, P. Kaushik",
-            "https://www.sciencedirect.com/science/article/pii/S0927776520302885",
-            null
-        ],
-        [
-            "Research article",
-            "A comparative numerical study on two-phase boiling fluid flow and heat transfer in the microchannel heat sink with different manifold arrangements",
-            "International Journal of Heat and Mass Transfer",
-            "Yang Luo, Jingzhi Zhang, Wei Li",
-            "https://www.sciencedirect.com/science/article/pii/S0017931020300235",
-            null
-        ],
-        [
-            "Research article",
-            "Effects of surface roughness with the spherical shape on the fluid flow of argon atoms flowing into the microchannel, under boiling condition using molecular dynamic simulation",
-            "Journal of Molecular Liquids",
-            "Yeping Peng, Majid Zarringhalam, Masoud Afrand",
-            "https://www.sciencedirect.com/science/article/pii/S0167732219330144",
-            null
-        ],
-        [
-            "Research article",
-            "Electro-osmotic flow of hydromagnetic dusty viscoelastic fluids in a microchannel propagated by peristalsis",
-            "Journal of Molecular Liquids",
-            "K. Ramesh, D. Tripathi, C. M. Khalique",
-            "https://www.sciencedirect.com/science/article/pii/S0167732219370539",
-            null
-        ],
-        [
-            "Research article",
-            "Actively homogenizing fluid distribution and slug length of liquid-liquid segmented flow in parallelized microchannels",
-            "Chemical Engineering and Processing - Process Intensification",
-            "Linda Arsenjuk, Niclas von Vietinghoff, David W. Agar",
-            "https://www.sciencedirect.com/science/article/pii/S0255270120305225",
-            null
-        ],
-        [
-            "Research article",
-            "Numerical investigation of the fluid flow and heat transfer characteristics of tree-shaped microchannel heat sink with variable cross-section",
-            "Chemical Engineering and Processing - Process Intensification",
-            "Pingnan Huang, Guanping Dong, Minqiang Pan",
-            "https://www.sciencedirect.com/science/article/pii/S0255270119310360",
-            null
-        ],
-        [
-            "Research article",
-            "Electro-osmotic oscillatory flow of viscoelastic fluids in a microchannel",
-            "Journal of Non-Newtonian Fluid Mechanics",
-            "Samir H. Sadek, Fernando T. Pinho",
-            "https://www.sciencedirect.com/science/article/pii/S0377025718302544",
-            null
-        ],
-        [
-            "Research article",
-            "Numerical investigation of fluid flow and heat transfer in trapezoidal microchannel with groove structure",
-            "International Journal of Thermal Sciences",
-            "Pankaj Kumar",
-            "https://www.sciencedirect.com/science/article/pii/S1290072918300474",
-            null
-        ],
-        [
-            "Research article",
-            "Influence of fin height on heat transfer and fluid flow characteristics of rectangular microchannel heat sink",
-            "International Journal of Heat and Mass Transfer",
-            "Yogesh K. Prajapati",
-            "https://www.sciencedirect.com/science/article/pii/S0017931019306313",
-            null
-        ],
-        [
-            "Research article",
-            "Thermohydraulic performance of microchannel heat sinks with triangular ribs on sidewalls – Part 1: Local fluid flow and heat transfer characteristics",
-            "International Journal of Heat and Mass Transfer",
-            "Lei Chai, Liang Wang, Xin Bai",
-            "https://www.sciencedirect.com/science/article/pii/S0017931018319720",
-            null
-        ],
-        [
-            "Research article",
-            "Numerical investigation of fluid flow and heat transfer of nanofluids in microchannel with longitudinal fins",
-            "Ain Shams Engineering Journal",
-            "Ayoub Abdollahi, Hussein A. Mohammed, Rajnish N. Sharma, Download PDF",
-            "https://www.sciencedirect.com/science/article/pii/S2090447918300224",
-            null
-        ],
-        [
-            "Research article",
-            "Effects of structural parameters on fluid flow and heat transfer in a serpentine microchannel with fan-shaped reentrant cavities",
-            "Applied Thermal Engineering",
-            "Xianfei Liu, Hui Zhang, Zhiqiang Li",
-            "https://www.sciencedirect.com/science/article/pii/S1359431118359702",
-            null
-        ],
-        [
-            "Research article",
-            "Experimental and numerical investigations of fluid flow and heat transfer in a bioinspired surface enriched microchannel",
-            "International Journal of Thermal Sciences",
-            "Prasenjit Dey, Gaurav Hedau, Sandip K. Saha",
-            "https://www.sciencedirect.com/science/article/pii/S1290072918305933",
-            null
-        ],
-        [
-            "Research article",
-            "Numerical assessment of Ag-water nano-fluid flow in two new microchannel heatsinks: Thermal performance and thermodynamic considerations",
-            "International Communications in Heat and Mass Transfer",
-            "Liu Yang, Jia-nan Huang, Weikai Ji",
-            "https://www.sciencedirect.com/science/article/pii/S0735193319302817",
-            null
-        ],
-        [
-            "Research article",
-            "Computational analysis of the flow of pseudoplastic power-law fluids in a microchannel plate",
-            "Chinese Journal of Chemical Engineering",
-            "Saeed Mortazavi",
-            "https://www.sciencedirect.com/science/article/pii/S1004954116307388",
-            null
-        ],
-        [
-            "Research article",
-            "Investigation of fluid flow and heat transfer characteristics of parallel flow double-layer microchannel heat exchanger",
-            "Applied Thermal Engineering",
-            "Fang Zhou, Wei Zhou, Xuyang Chu",
-            "https://www.sciencedirect.com/science/article/pii/S1359431118301443",
-            null
-        ],
-        [
-            "Research article",
-            "Mass transfer in liquid-liquid Taylor flow in a microchannel: Local concentration distribution, mass transfer regime and the effect of fluid viscosity",
-            "Chemical Engineering Science",
-            "Chaoqun Yao, Haiyun Ma, Guangwen Chen",
-            "https://www.sciencedirect.com/science/article/pii/S0009250920302669",
-            null
-        ],
-        [
-            "Research article",
-            "Slug flow hydrodynamics of immiscible fluids within a rectangular microchannel towards size-controllable fabrication of dextran-based cryogel beads",
-            "Chemical Engineering Journal",
-            "Tingting Guan, Yawei Gao, Junxian Yun",
-            "https://www.sciencedirect.com/science/article/pii/S1385894719305315",
-            null
-        ],
-        [
-            "Research article",
-            "Quantitative visualization of fluid mixing in slug flow for arbitrary wall-shaped microchannel using Shannon entropy",
-            "Chemical Engineering Science",
-            "Tomohiko Kihara, Hideaki Obata, Hiroyuki Hirano",
-            "https://www.sciencedirect.com/science/article/pii/S0009250919301666",
-            null
-        ],
-        [
-            "Research article",
-            "Electroosmotic flow of power-law fluids in curved rectangular microchannel with high zeta potentials",
-            "Journal of Non-Newtonian Fluid Mechanics",
-            "Nader Nekoubin",
-            "https://www.sciencedirect.com/science/article/pii/S0377025717304640",
-            null
-        ],
-        [
-            "Research article",
-            "Numerical investigation of forced convection heat transfer and flow irreversibility in a novel heatsink with helical microchannels working with biologically synthesized water-silver nano-fluid",
-            "International Communications in Heat and Mass Transfer",
-            "Amin Shahsavar, Mohammad Mehdi Baseri, Masoud Afrand",
-            "https://www.sciencedirect.com/science/article/pii/S0735193319301903",
-            null
-        ],
-        [
-            "Research article",
-            "Numerical investigation of ﬂuid ﬂow and heat transfer in a plate microchannel heat exchanger with isosceles trapezoid-shaped reentrant cavities in the sidewall",
-            "Chemical Engineering and Processing - Process Intensification",
-            "Minqiang Pan, Yujian Zhong, Yufeng Xu",
-            "https://www.sciencedirect.com/science/article/pii/S0255270118303738",
-            null
-        ],
-        [
-            "Research article",
-            "Thermohydraulic performance of microchannel heat sinks with triangular ribs on sidewalls – Part 2: Average fluid flow and heat transfer characteristics",
-            "International Journal of Heat and Mass Transfer",
-            "Lei Chai, Liang Wang, Xin Bai",
-            "https://www.sciencedirect.com/science/article/pii/S0017931018319732",
-            null
-        ],
-        [
-            "Research article",
-            "Flow characterization of gas-liquid with different liquid properties in a Y-type microchannel using electrical resistance tomography and volume of fluid model",
-            "Journal of the Taiwan Institute of Chemical Engineers",
-            "Peng Yan, Haibo Jin, Rongyue Zhang",
-            "https://www.sciencedirect.com/science/article/pii/S1876107022001870",
-            null
-        ],
-        [
-            "Research article",
-            "Numerical investigation of the effect of electrode arrangement and geometry on electrothermal fluid flow pumping and mixing in microchannel",
-            "Chemical Engineering and Processing - Process Intensification",
-            "Arezou Khakpour, Abas Ramiar",
-            "https://www.sciencedirect.com/science/article/pii/S0255270119308694",
-            null
-        ],
-        [
-            "Research article",
-            "Measuring heat transfer performance of viscoelastic fluid flow in curved microchannel using Ti–Pt film temperature sensor",
-            "Experimental Thermal and Fluid Science",
-            "Dong-Yang Li, Xiao-Bin Li, Sang Woo Joo",
-            "https://www.sciencedirect.com/science/article/pii/S0894177716301042",
-            null
-        ],
-        [
-            "Research article",
-            "Size dependences of hydraulic resistance and heat transfer of fluid flow in elliptical microchannel heat sinks with boundary slip",
-            "International Journal of Heat and Mass Transfer",
-            "Dalei Jing, Shiyu Song, Xiaoming Wang",
-            "https://www.sciencedirect.com/science/article/pii/S001793101733942X",
-            null
-        ],
-        [
-            "Research article",
-            "Electroosmotic flow of a Phan-Thien–Tanner fluid in a wavy-wall microchannel",
-            "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
-            "L. Martínez, O. Bautista, F. Méndez",
-            "https://www.sciencedirect.com/science/article/pii/S0927775716301200",
-            null
-        ],
-        [
-            "Research article",
-            "Heat transfer and fluid flow characteristics of combined microchannel with cone-shaped micro pin fins",
-            "International Communications in Heat and Mass Transfer",
-            "Yuting Jia, Guodong Xia, Bo Cai",
-            "https://www.sciencedirect.com/science/article/pii/S0735193317302956",
-            null
+            "To identify industry 4.0 and circular economy adoption barriers in the agriculture supply chain by using ISM-ANP",
+            "Journal of Cleaner Production",
+            "Volume 293 (Cover date: 15 April 2021)Article 126023",
+            "Shashank Kumar, Rakesh D. Raut, Balkrishna E. Narkhede",
+            "https://www.sciencedirect.com/science/article/pii/S0959652621002432",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Mini review",
+            "Reshaping global policies for circular economy",
+            "Circular Economy",
+            "Volume 1, Issue 1 (Cover date: June 2022)Article 100003",
+            "Xianlai Zeng, Oladele A. Ogunseitan, Yong Geng, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S2773167722000036",
+            "10.1016/j.techfore.2020.120567"
         ],
         [
             "Review article",
-            "Fluid flow and heat transfer of liquid-liquid two phase flow in microchannels: A review",
-            "International Communications in Heat and Mass Transfer",
-            "Ayoub Abdollahi, Rajnish N. Sharma, Ashkan Vatani",
-            "https://www.sciencedirect.com/science/article/pii/S0735193317300489",
-            null
+            "Information brokerage for circular economy in the construction industry: A systematic literature review",
+            "Journal of Cleaner Production",
+            "Volume 313 (Cover date: 1 September 2021)Article 127938",
+            "M. K. C. S. Wijewickrama, Raufdeen Rameezdeen, Nicholas Chileshe",
+            "https://www.sciencedirect.com/science/article/pii/S0959652621021569",
+            "10.1016/j.techfore.2020.120567"
         ],
         [
             "Research article",
-            "High-frequency thermal-fluidic characterization of dynamic microchannel flow boiling instabilities: Part 1 – Rapid-bubble-growth instability at the onset of boiling",
-            "International Journal of Multiphase Flow",
-            "Todd A. Kingston, Justin A. Weibel, Suresh V. Garimella",
-            "https://www.sciencedirect.com/science/article/pii/S0301932218300417",
-            null
+            "Drivers of circular economy for small and medium enterprises: Case study on the Indian state of Tamil Nadu",
+            "Journal of Business Research",
+            "Volume 149 (Cover date: October 2022)Pages 997-1015",
+            "Deepak Mathivathanan, K. Mathiyazhagan, Bimal Arora",
+            "https://www.sciencedirect.com/science/article/pii/S0148296322005392",
+            "10.1016/j.techfore.2020.120567"
         ],
         [
             "Research article",
-            "Experimental study of microchannel flow for non-Newtonian fluid in the presence of salt",
-            "Experimental Thermal and Fluid Science",
-            "Y. B. Lu, G. H. Tang, W. Q. Tao",
-            "https://www.sciencedirect.com/science/article/pii/S0894177715003490",
-            null
+            "Barriers to the adoption of circular economy practices in Micro, Small and Medium Enterprises: Instrument development, measurement and validation",
+            "Journal of Cleaner Production",
+            "Volume 351 (Cover date: 1 June 2022)Article 131389",
+            "Ruchi Mishra, Rajesh Kumar Singh, Kannan Govindan",
+            "https://www.sciencedirect.com/science/article/pii/S0959652622010137",
+            "10.1016/j.techfore.2020.120567"
         ],
         [
             "Research article",
-            "Numerical study of fluid flow and heat transfer for flow of Cu-Al2O3-water hybrid nanofluid in a microchannel heat sink",
+            "Investigating the sustainable development goals derived due to adoption of circular economy practices",
+            "Waste Management",
+            "Volume 143 (Cover date: 15 April 2022)Pages 1-14",
+            "Swapnil Lahane, Ravi Kant",
+            "https://www.sciencedirect.com/science/article/pii/S0956053X22001003",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "In mining, not everything is a circular economy: Case studies from recent mining projects in Iberia",
+            "Resources Policy",
+            "Volume 78 (Cover date: September 2022)Article 102798",
+            "Luis de la Torre de Palacios, José Antonio Espí Rodríguez",
+            "https://www.sciencedirect.com/science/article/pii/S030142072200246X",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Impeding challenges on industry 4.0 in circular economy: Palm oil industry in Malaysia",
+            "Computers & Operations Research",
+            "Volume 123 (Cover date: November 2020)Article 105052",
+            "Asma-Qamaliah Abdul-Hamid, Mohd Helmi Ali, Mukesh Kumar",
+            "https://www.sciencedirect.com/science/article/pii/S0305054820301696",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "A framework to overcome sustainable supply chain challenges through solution measures of industry 4.0 and circular economy: An automotive case",
+            "Journal of Cleaner Production",
+            "Volume 254 (Cover date: 1 May 2020)Article 120112",
+            "Gunjan Yadav, Sunil Luthra, Dhiraj P. Rai",
+            "https://www.sciencedirect.com/science/article/pii/S0959652620301591",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Drivers and Barriers to the Circular Economy Transition: the Case of Recycled Plastics in the Automotive Sector in the European Union",
+            "Procedia CIRP",
+            "Volume 105 (Cover date: 2022)Pages 37-42",
+            "Brian Baldassarre, Thibaut Maury, Serenella Sala, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S2212827122000075",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Transforming sustainability of Indian small and medium-sized enterprises through circular economy adoption",
+            "Journal of Business Research",
+            "Volume 149 (Cover date: October 2022)Pages 250-269",
+            "Sai Sudhakar Nudurupati, Pawan Budhwar, Sadhan Kumar Ghosh",
+            "https://www.sciencedirect.com/science/article/pii/S0148296322004647",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Review article",
+            "The circular economy in the textile and apparel industry: A systematic literature review",
+            "Journal of Cleaner Production",
+            "Volume 259 (Cover date: 20 June 2020)Article 120728",
+            "Fu Jia, Shiyuan Yin, Xiaowei Chen",
+            "https://www.sciencedirect.com/science/article/pii/S0959652620307757",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Textile-apparel manufacturing and material waste management in the circular economy: A conceptual model to achieve sustainable development goal (SDG) 12 for Bangladesh",
+            "Cleaner Environmental Systems",
+            "Volume 4 (Cover date: March 2022)Article 100070",
+            "Maeen Md. Khairul Akter, Upama Nasrin Haq, Mohammad Abbas Uddin, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S2666789422000010",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "The role of U.S. policy in advancing circular economy solutions for wasted food",
+            "Journal of Cleaner Production",
+            "In press, journal pre-proofArticle 133200",
+            "Erinn Ryen, Callie W. Babbitt",
+            "https://www.sciencedirect.com/science/article/pii/S0959652622027883",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Review article",
+            "Does circular economy performance lead to sustainable development? – A systematic literature review",
+            "Journal of Environmental Management",
+            "Volume 293 (Cover date: 1 September 2021)Article 112811",
+            "Rohit Panchal, Anju Singh, Hema Diwan",
+            "https://www.sciencedirect.com/science/article/pii/S0301479721008732",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Circular economy practices in the leather industry: A practical step towards sustainable development",
+            "Journal of Cleaner Production",
+            "Volume 251 (Cover date: 1 April 2020)Article 119737",
+            "Md. Abdul Moktadir, Hadi Badri Ahmadi, Jafar Rezaei",
+            "https://www.sciencedirect.com/science/article/pii/S0959652619346074",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Exploring barriers to smart and sustainable circular economy: The case of an automotive eco-cluster",
+            "Journal of Cleaner Production",
+            "Volume 314 (Cover date: 10 September 2021)Article 127920",
+            "Yaşanur Kayikci, Yigit Kazancoglu, Nazlican Gozacan",
+            "https://www.sciencedirect.com/science/article/pii/S0959652621021387",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Review article",
+            "Progress towards a circular economy in materials to decarbonize electricity and mobility",
+            "Renewable and Sustainable Energy Reviews",
+            "Volume 137 (Cover date: March 2021)Article 110604",
+            "Dustin Mulvaney, Ryan M. Richards, Seetharaman Sridhar",
+            "https://www.sciencedirect.com/science/article/pii/S1364032120308881",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Properties of aerated concrete with steel sludge waste from automobile industry",
             "Materials Today: Proceedings",
-            "V. Murali Krishna, M. Sandeep Kumar, R. Mounika",
-            "https://www.sciencedirect.com/science/article/pii/S2214785321047799",
-            null
+            "Volume 62, Part 6 (Cover date: 2022)Pages 2808-2813",
+            "S. Geetha, M. Selvakumar, S. Muthu Lakshmi",
+            "https://www.sciencedirect.com/science/article/pii/S2214785322008021",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Systems resilience and SME multilevel challenges: A place-based conceptualization of the circular economy",
+            "Journal of Business Research",
+            "Volume 145 (Cover date: June 2022)Pages 757-768",
+            "Mickey Howard, Steffen Böhm, Dan Eatherley, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S0148296322002429",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Closed-loop systems to circular economy: A pathway to environmental sustainability?",
+            "CIRP Annals",
+            "In press, corrected proof",
+            "Sami Kara, Michael Hauschild, Tim McAloone",
+            "https://www.sciencedirect.com/science/article/pii/S0007850622001330",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Impact of Organisational Factors on the Circular Economy Practices and Sustainable Performance of Small and Medium-sized Enterprises in Vietnam",
+            "Journal of Business Research",
+            "Volume 147 (Cover date: August 2022)Pages 362-378",
+            "Soumyadeb Chowdhury, Prasanta Kumar Dey, Tran Phuong Ha",
+            "https://www.sciencedirect.com/science/article/pii/S0148296322003150",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Review article",
+            "Regenerative desulphurisation of pyrolysis oil: A paradigm for the circular economy initiative",
+            "Journal of Environmental Chemical Engineering",
+            "Volume 9, Issue 6 (Cover date: December 2021)Article 106864",
+            "Joshua O. Ighalo, Kingsley O. Iwuozor, Chinenye Adaobi Igwegbe",
+            "https://www.sciencedirect.com/science/article/pii/S2213343721018418",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Potential of circular economy implementation in the mechatronics industry: An exploratory research",
+            "Journal of Cleaner Production",
+            "Volume 239 (Cover date: 1 December 2019)Article 118014",
+            "Ugo Chouinard, Daniela C. A. Pigosso, Sofiane Achiche",
+            "https://www.sciencedirect.com/science/article/pii/S0959652619328847",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Blockchain technology and the circular economy: Implications for sustainability and social responsibility",
+            "Journal of Cleaner Production",
+            "Volume 293 (Cover date: 15 April 2021)Article 126130",
+            "Arvind Upadhyay, Sumona Mukhuty, Yigit Kazancoglu",
+            "https://www.sciencedirect.com/science/article/pii/S0959652621003504",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Environmental analysis of a bio-based coating material for automobile interiors",
+            "Journal of Cleaner Production",
+            "Volume 367 (Cover date: 20 September 2022)Article 133011",
+            "Inês Rodrigues, Teresa M. Mata, António A. Martins",
+            "https://www.sciencedirect.com/science/article/pii/S0959652622026038",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Review article",
+            "Exploring circular economies in the built environment from a complex systems perspective: A systematic review and conceptual model at the city scale",
+            "Sustainable Cities and Society",
+            "Volume 80 (Cover date: May 2022)Article 103411",
+            "Fernanda Cruz Rios, Sonia Panic, Melissa Bilec",
+            "https://www.sciencedirect.com/science/article/pii/S2210670721006843",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Review article",
+            "Full circle: Challenges and prospects for plastic waste management in Australia to achieve circular economy",
+            "Journal of Cleaner Production",
+            "Volume 368 (Cover date: 25 September 2022)Article 133127",
+            "Rumana Hossain, Md Tasbirul Islam, Veena Sahajwalla, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S0959652622027160",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Developing a circular economy: An examination of SME’s role in India",
+            "Journal of Business Research",
+            "Volume 142 (Cover date: March 2022)Pages 435-447",
+            "Amrik Sohal, Alka Ashwini Nand, Ananya Bhattacharya",
+            "https://www.sciencedirect.com/science/article/pii/S014829632100984X",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Review article",
+            "Prioritising low-risk and high-potential circular economy strategies for decarbonisation: A meta-analysis on consumer-oriented product-service systems",
+            "Renewable and Sustainable Energy Reviews",
+            "Volume 155 (Cover date: March 2022)Article 111858",
+            "R. Koide, S. Murakami, K. Nansai, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S1364032121011254",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Pro-environmental behavior model creating circular economy in steel recycling market, empirical study in Thailand",
+            "Environmental Challenges",
+            "Volume 4 (Cover date: August 2021)Article 100112",
+            "Wareerath Akkalatham, Amirhossein Taghipour, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S2667010021000913",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Planning a circular economy system for electric vehicles using network simulation",
+            "Journal of Manufacturing Systems",
+            "Volume 63 (Cover date: April 2022)Pages 95-106",
+            "Sidi Deng, Edwin Kpodzro, John W. Sutherland",
+            "https://www.sciencedirect.com/science/article/pii/S0278612522000395",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Interactions of governmental policies and business models for a circular economy: A systematic literature review",
+            "Journal of Cleaner Production",
+            "Volume 337 (Cover date: 20 February 2022)Article 130329",
+            "Raphael Wasserbaur, Tomohiko Sakao, Leonidas Milios",
+            "https://www.sciencedirect.com/science/article/pii/S0959652621044930",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Review article",
+            "Transitioning China to a circular economy through remanufacturing: A comprehensive review of the management institutions and policy system",
+            "Resources, Conservation and Recycling",
+            "Volume 161 (Cover date: October 2020)Article 104920",
+            "Xueliang Yuan, Mengyue Liu, Jian Zuo",
+            "https://www.sciencedirect.com/science/article/pii/S092134492030238X",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "How effective is the construction sector in promoting the circular economy in Brazil and France? : A waste input-output analysis",
+            "Structural Change and Economic Dynamics",
+            "Volume 60 (Cover date: March 2022)Pages 47-58",
+            "Jean Pierre Doussoulin, Mariana Bittencourt",
+            "https://www.sciencedirect.com/science/article/pii/S0954349X21001417",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Connecting additive manufacturing to circular economy implementation strategies: Links, contingencies and causal loops",
+            "International Journal of Production Economics",
+            "Volume 246 (Cover date: April 2022)Article 108414",
+            "Biman Darshana Hettiarachchi, Marcus Brandenburg, Stefan Seuring",
+            "https://www.sciencedirect.com/science/article/pii/S092552732200007X",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Integrated linguistic entropy weight method and multi-objective programming model for supplier selection and order allocation in a circular economy: A case study",
+            "Journal of Cleaner Production",
+            "Volume 277 (Cover date: 20 December 2020)Article 122597",
+            "Jianghong Feng, Zongrong Gong",
+            "https://www.sciencedirect.com/science/article/pii/S0959652620326445",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Going beyond waste reduction: Exploring tools and methods for circular economy adoption in small-medium enterprises",
+            "Resources, Conservation and Recycling",
+            "Volume 182 (Cover date: July 2022)Article 106345",
+            "Mickey Howard, Xiaoyu Yan, Stefano Pascucci, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S0921344922001902",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Analysing the drivers for adoption of Industry 4.0 technologies in a functional paper – cement – sugar circular sharing network",
+            "Sustainable Production and Consumption",
+            "Volume 31 (Cover date: May 2022)Pages 459-477",
+            "K. E. K. Vimal, Ketki Churi, Jayakrishna Kandasamy",
+            "https://www.sciencedirect.com/science/article/pii/S2352550922000574",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Circular economy and zero-carbon strategies between Japan and South Korea: A comparative study",
+            "Science of The Total Environment",
+            "Volume 820 (Cover date: 10 May 2022)Article 153274",
+            "Manuel Herrador, Wil de Jong, Lorenz Granrath",
+            "https://www.sciencedirect.com/science/article/pii/S0048969722003655",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Packaging Plastic Waste Management for a Circular Economy and Identifying a better Waste Collection System using Analytical Hierarchy Process (AHP)",
+            "Procedia CIRP",
+            "Volume 98 (Cover date: 2021)Pages 270-275",
+            "Jaideep Balwada, Shivam Samaiya, Rajesh P. Mishra, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S2212827121001323",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Circular economy for clean energy transitions: A new opportunity under the COVID-19 pandemic",
+            "Applied Energy",
+            "Volume 289 (Cover date: 1 May 2021)Article 116666",
+            "Chang Su, Frauke Urban, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S0306261921001963",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Drivers and barriers of circular economy business models: Where we are now, and where we are heading",
+            "Journal of Cleaner Production",
+            "Volume 333 (Cover date: 20 January 2022)Article 130049",
+            "Maryam Hina, Chetna Chauhan, Amandeep Dhir, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S0959652621042153",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Supply chain collaboration for a circular economy - From transition to continuous improvement",
+            "Journal of Cleaner Production",
+            "Volume 328 (Cover date: 15 December 2021)Article 129511",
+            "Patricia Calicchio Berardi, Renata Peregrino de Brito",
+            "https://www.sciencedirect.com/science/article/pii/S0959652621036908",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Manufacturing and service supply chain resilience to the COVID-19 outbreak: Lessons learned from the automobile and airline industries",
+            "Technological Forecasting and Social Change",
+            "Volume 163 (Cover date: February 2021)Article 120447",
+            "Amine Belhadi, Sachin Kamble, Mani Venkatesh, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S0040162520312737",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Prospective evaluation of circular economy practices within plastic packaging value chain through optimization of life cycle impacts and circularity",
+            "Resources, Conservation and Recycling",
+            "Volume 173 (Cover date: October 2021)Article 105691",
+            "Sevde Karayılan, Özge Yılmaz, Serkan Naneci",
+            "https://www.sciencedirect.com/science/article/pii/S0921344921003001",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "More friends than foes? The impact of automobility-as-a-service on the incumbent automotive industry",
+            "Technological Forecasting and Social Change",
+            "Volume 154 (Cover date: May 2020)Article 119975",
+            "Peter Wells, Xiaobei Wang, Renato Orsato, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S0040162518318213",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Perception of chemical recycling and its role in the transition towards a circular carbon economy: A case study in Germany",
+            "Waste Management",
+            "Volume 125 (Cover date: 15 April 2021)Pages 280-292",
+            "Roh Pin Lee, Manja Tschoepe, Raoul Voss, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S0956053X21001100",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "The circular economy transformation in industrial parks: Theoretical reframing of the resource and environment matrix",
+            "Resources, Conservation and Recycling",
+            "Volume 167 (Cover date: April 2021)Article 105251",
+            "Ning Wang, Jinling Guo, Xudong Ren",
+            "https://www.sciencedirect.com/science/article/pii/S0921344920305668",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Review article",
+            "A systematic literature review on the circular economy initiatives in the European Union",
+            "Sustainable Production and Consumption",
+            "Volume 26 (Cover date: April 2021)Pages 187-202",
+            "Purva Mhatre, Rohit Panchal, Shyam Bibyan",
+            "https://www.sciencedirect.com/science/article/pii/S2352550920302232",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Death by waste: Fashion and textile circular economy case",
+            "Science of The Total Environment",
+            "Volume 718 (Cover date: 20 May 2020)Article 137317",
+            "Kamyar Shirvanimoghaddam, Bahareh Motamed, Minoo Naebe",
+            "https://www.sciencedirect.com/science/article/pii/S0048969720308275",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Review article",
+            "Breaking circular economy barriers",
+            "Journal of Cleaner Production",
+            "Volume 292 (Cover date: 10 April 2021)Article 126002",
+            "Jonas Grafström, Siri Aasma",
+            "https://www.sciencedirect.com/science/article/pii/S0959652621002225",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Book chapter",
+            "Chapter 10: Waste management in fashion and textile industry: Recent advances and trends, life-cycle assessment, and circular economy",
+            "Emerging Trends to Approaching Zero Waste",
+            "(Cover date: 2022)Pages 215-242",
+            "Richa Gupta, Anamika Kushwaha, Niva Rana Mahanta",
+            "https://www.sciencedirect.com/science/article/pii/B9780323854030000049",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Circular economy as a key for industrial value chain resilience in a post-COVID world: what do future engineers think?",
+            "Procedia CIRP",
+            "Volume 103 (Cover date: 2021)Pages 26-31",
+            "Michael Saidani, Francois Cluzel, Harrison Kim, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S2212827121008441",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Review article",
+            "Construction and built environment in circular economy: A comprehensive literature review",
+            "Journal of Cleaner Production",
+            "Volume 305 (Cover date: 10 July 2021)Article 127180",
+            "Ömer Çimen",
+            "https://www.sciencedirect.com/science/article/pii/S0959652621013998",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Effect of eco-innovation on green supply chain management, circular economy capability, and performance of small and medium enterprises",
+            "Journal of Business Research",
+            "Volume 141 (Cover date: March 2022)Pages 60-72",
+            "Surajit Bag, Pavitra Dhamija, Rajesh Kumar Singh",
+            "https://www.sciencedirect.com/science/article/pii/S0148296321009255",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Role of institutional pressures and resources in the adoption of big data analytics powered artificial intelligence, sustainable manufacturing practices and circular economy capabilities",
+            "Technological Forecasting and Social Change",
+            "Volume 163 (Cover date: February 2021)Article 120420",
+            "Surajit Bag, Jan Ham Christiaan Pretorius, Yogesh K. Dwivedi",
+            "https://www.sciencedirect.com/science/article/pii/S0040162520312464",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Mini review",
+            "Managing complex products to support the circular economy",
+            "Resources, Conservation and Recycling",
+            "Volume 145 (Cover date: June 2019)Pages 124-125",
+            "Edwin Tam, Katie Soulliere, Susan Sawyer-Beaulieu",
+            "https://www.sciencedirect.com/science/article/pii/S0921344918304865",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "A circular economy life cycle costing model (CE-LCC) for building components",
+            "Resources, Conservation and Recycling",
+            "Volume 161 (Cover date: October 2020)Article 104857",
+            "Bas Wouterszoon Jansen, Anne van Stijn, Gerard van Bortel, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S0921344920301774",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "The effects of circular economy on economic growth: A quasi-natural experiment in China",
+            "Journal of Cleaner Production",
+            "Volume 271 (Cover date: 20 October 2020)Article 122558",
+            "Ziyu Chen, Shouming Chen, Abid Hasan",
+            "https://www.sciencedirect.com/science/article/pii/S0959652620326056",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Book chapter",
+            "Chapter 3: Sustainability and the circular economy",
+            "Assessing Progress Towards Sustainability",
+            "(Cover date: 2022)Pages 35-56",
+            "Roland Clift, George Martin, Simon Mair",
+            "https://www.sciencedirect.com/science/article/pii/B9780323858519000018",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Investigating drivers of circular supply chain with product-service system in automotive firms of an emerging economy",
+            "Journal of Cleaner Production",
+            "Volume 319 (Cover date: 15 October 2021)Article 128629",
+            "Ujjwal Nag, Satyendra Kumar Sharma, Kannan Govindan",
+            "https://www.sciencedirect.com/science/article/pii/S0959652621028328",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Development of a non-dominated sorting genetic algorithm for implementing circular economy strategies in the concrete industry",
+            "Sustainable Production and Consumption",
+            "Volume 27 (Cover date: July 2021)Pages 933-946",
+            "Mahjoob NoParast, Milad Hematian, Hessam AzariJafari",
+            "https://www.sciencedirect.com/science/article/pii/S2352550921000476",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Circular Economy Ownership Models: A view from South Africa Industry",
+            "Procedia Manufacturing",
+            "Volume 8Pages 284-291",
+            "Paul T. Mativenga, John Agwa-Ejon, Norshah Aizat Shuaib, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S2351978917300422",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Circular supply chain governance: A qualitative-empirical study of the European polyurethane industry to facilitate functional circular supply chain management",
+            "Journal of Cleaner Production",
+            "Volume 317 (Cover date: 1 October 2021)Article 128445",
+            "Felix Carl Schultz, Sebastian Everding, Ingo Pies, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S0959652621026573",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Editorial",
+            "Introduction to the special issue on regulating the circular economy: Gaps, insights and an emerging research agenda",
+            "Journal of Cleaner Production",
+            "Volume 350 (Cover date: 20 May 2022)Article 131341",
+            "David Monciardini, Carl Dalhammar, Rosalind Malcolm",
+            "https://www.sciencedirect.com/science/article/pii/S0959652622009672",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Review article",
+            "Sustainable mobility: The route of tires through the circular economy model",
+            "Waste Management",
+            "Volume 126 (Cover date: 1 May 2021)Pages 309-322",
+            "Javier Araujo-Morera, Raquel Verdejo, Marianella Hernández Santana, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S0956053X21001677",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "The development of CE business models in firms: The role of circular economy capabilities",
+            "Technovation",
+            "Volume 106 (Cover date: August 2021)Article 102292",
+            "J. C. Fernandez de Arroyabe, N. Arranz, M. F. Arroyabe",
+            "https://www.sciencedirect.com/science/article/pii/S0166497221000730",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Heavy vehicles on the road towards the circular economy: Analysis and comparison with the automotive industry",
+            "Resources, Conservation and Recycling",
+            "Volume 135 (Cover date: August 2018)Pages 108-122",
+            "Michael Saidani, Bernard Yannou, François Cluzel",
+            "https://www.sciencedirect.com/science/article/pii/S0921344917301714",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Mode of circular economy in China's iron and steel industry: a case study in Wu'an city",
+            "Journal of Cleaner Production",
+            "Volume 64Pages 505-512",
+            "Shu-hua Ma, Zong-guo Wen, Zhi-chao Wen",
+            "https://www.sciencedirect.com/science/article/pii/S0959652613006719",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Legal obstacles for the circular economy in Thailand: Illegal dumping of recyclable hazardous industrial waste",
+            "Journal of Cleaner Production",
+            "Volume 302 (Cover date: 15 June 2021)Article 126969",
+            "Ashijya Otwong, Somnuck Jongmeewasin, Tanapon Phenrat",
+            "https://www.sciencedirect.com/science/article/pii/S0959652621011884",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Enabling Circular Economy Through Product Stewardship",
+            "Procedia Manufacturing",
+            "Volume 8Pages 377-384",
+            "J. P. Jensen, A. Remmen, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S2351978917300549",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Review article",
+            "Mapping of research lines on circular economy practices in agriculture: From waste to energy",
+            "Renewable and Sustainable Energy Reviews",
+            "Volume 131 (Cover date: October 2020)Article 109958",
+            "Murillo Vetroni Barros, Rodrigo Salvador, Cassiano Moro Piekarski",
+            "https://www.sciencedirect.com/science/article/pii/S1364032120302495",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Governing the second deep transition towards a circular economy: How rules emerge, align and diffuse",
+            "Environmental Innovation and Societal Transitions",
+            "Volume 37 (Cover date: December 2020)Pages 171-186",
+            "Florian Kern, Helen Sharp, Samyra Hachmann, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S221042242030112X",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Review article",
+            "Cellulosic fibres-based epoxy composites: From bioresources to a circular economy",
+            "Industrial Crops and Products",
+            "Volume 182 (Cover date: August 2022)Article 114895",
+            "Neha Uppal, Asokan Pappu, Vijay Kumar Thakur, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S0926669022003788",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Review article",
+            "Cerium recovery from aqueous solutions by bio/adsorption: A review in a circular economy context",
+            "Journal of Cleaner Production",
+            "Volume 326 (Cover date: 1 December 2021)Article 129395",
+            "Ana Beatriz Vitorino de Farias, Talles Barcelos da Costa, Melissa Gurgel Adeodato Vieira",
+            "https://www.sciencedirect.com/science/article/pii/S0959652621035794",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Research article",
+            "Circular economy: Joint dynamic pricing and recycling investments",
+            "International Journal of Production Economics",
+            "Volume 236 (Cover date: June 2021)Article 108117",
+            "Rainer Schlosser, Régis Y. Chenavaz, Stanko Dimitrov",
+            "https://www.sciencedirect.com/science/article/pii/S0925527321000931",
+            "10.1016/j.techfore.2020.120567"
         ],
         [
             "Short communication",
-            "A note on “Start-up electroosmotic flow of Maxwell fluids in a rectangular microchannel with high zeta potentials” [J. Non-Newton Fluid Mech. 227 (2016) 17–29]",
-            "Journal of Non-Newtonian Fluid Mechanics",
-            "E. Jiménez, J. Escandón, F. Méndez",
-            "https://www.sciencedirect.com/science/article/pii/S0377025716300477",
-            null
+            "Implications of China’s foreign waste ban on the global circular economy",
+            "Resources, Conservation and Recycling",
+            "Volume 144 (Cover date: May 2019)Pages 252-255",
+            "Shen Qu, Yuhua Guo, Ming Xu",
+            "https://www.sciencedirect.com/science/article/pii/S0921344919300047",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Editorial",
+            "Editorial overview: Frontiers of chemical engineering: plastics manufacturing and circular economy",
+            "Current Opinion in Chemical Engineering",
+            "Volume 33 (Cover date: September 2021)Article 100723",
+            "Sadhan C Jana, Heriberto Cabezas",
+            "https://www.sciencedirect.com/science/article/pii/S2211339821000551",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Book chapter",
+            "Chapter 33: Company perspectives on sustainable circular economy development in the South Karelia and Kymenlaakso regions and in the publishing sector in Finland",
+            "Circular Economy and Sustainability",
+            "(Cover date: 2022)Pages 619-649",
+            "R. Husgafvel, L. Linkosalmi, M. Hughes",
+            "https://www.sciencedirect.com/science/article/pii/B9780128198179000132",
+            "10.1016/j.techfore.2020.120567"
         ],
         [
             "Research article",
-            "Convective heat transfer and entropy generation analysis of non-Newtonian power-law fluid flows in parallel-plate and circular microchannels under slip boundary conditions",
-            "International Journal of Thermal Sciences",
-            "Mehdi Kiyasatfar",
-            "https://www.sciencedirect.com/science/article/pii/S1290072916316660",
-            null
+            "Digitalization as an enabler of the Circular Economy of electronics",
+            "Procedia Manufacturing",
+            "Volume 54 (Cover date: 2021)Pages 58-63",
+            "Laura Talens Peiró, Francesco Baiguera, Xavier Gabarrell i Durany, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S2351978921001438",
+            "10.1016/j.techfore.2020.120567"
         ],
         [
             "Research article",
-            "Measurement of low Reynolds number flow emanating from a Turing pattern microchannel array using a modified Bernoulli equation technique",
-            "Experimental Thermal and Fluid Science",
-            "Ercan M. Dede, Yuqing Zhou, Tsuyoshi Nomura, Download PDF",
-            "https://www.sciencedirect.com/science/article/pii/S0894177722001224",
-            null
+            "Circular economy research: A bibliometric analysis (2000–2019) and future research insights",
+            "Journal of Cleaner Production",
+            "Volume 287 (Cover date: 10 March 2021)Article 125011",
+            "Sandeep Goyal, Sumedha Chauhan, Pavitra Mishra",
+            "https://www.sciencedirect.com/science/article/pii/S0959652620350551",
+            "10.1016/j.techfore.2020.120567"
         ],
         [
             "Research article",
-            "Electroosmotic flow of a power law fluid in an elliptic microchannel",
-            "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
-            "Bhadri Srinivas",
-            "https://www.sciencedirect.com/science/article/pii/S0927775715304015",
-            null
+            "Dismantling, remanufacturing and recovering heavy vehicles in a circular economy—Technico-economic and organisational lessons learnt from an industrial pilot study",
+            "Resources, Conservation and Recycling",
+            "Volume 156 (Cover date: May 2020)Article 104684",
+            "Michael Saidani, Bernard Yannou, François Cluzel",
+            "https://www.sciencedirect.com/science/article/pii/S0921344920300069",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Review article",
+            "Circular economy in biocomposite development: State-of-the-art, challenges and emerging trends",
+            "Composites Part C: Open Access",
+            "Volume 5 (Cover date: July 2021)Article 100138",
+            "Vigneshwaran Shanmugam, Rhoda Afriyie Mensah, Seeram Ramakrishna, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S2666682021000335",
+            "10.1016/j.techfore.2020.120567"
+        ],
+        [
+            "Mini review",
+            "Research on the circular economy: A critique of the field",
+            "Resources, Conservation and Recycling",
+            "Volume 151 (Cover date: December 2019)Article 104480",
+            "Julian Kirchherr, Ralf van Santen, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S0921344919303866",
+            "10.1016/j.techfore.2020.120567"
         ],
         [
             "Research article",
-            "Flow patterns of liquid–liquid two-phase flow in non-Newtonian fluids in rectangular microchannels",
-            "Chemical Engineering and Processing: Process Intensification",
-            "Taotao Fu, Lijuan Wei, Youguang Ma",
-            "https://www.sciencedirect.com/science/article/pii/S025527011500077X",
-            null
-        ],
-        [
-            "Research article",
-            "Hydrodynamics and mass transfer characteristics of liquid–liquid slug flow in microchannels: The effects of temperature, fluid properties and channel size",
-            "Chemical Engineering Journal",
-            "Qi Zhang, Hongchen Liu, Guangwen Chen",
-            "https://www.sciencedirect.com/science/article/pii/S1385894718319958",
-            null
-        ],
-        [
-            "Research article",
-            "Abnormal microchannel convective fluid flow near the gas–liquid critical point",
-            "Physica A: Statistical Mechanics and its Applications",
-            "Lin Chen, Xin-Rong Zhang, Shigenao Maruyama",
-            "https://www.sciencedirect.com/science/article/pii/S0378437113010443",
-            null
-        ],
-        [
-            "Research article",
-            "Transient electroosmotic flow of Maxwell fluids in a slit microchannel with asymmetric zeta potentials",
-            "European Journal of Mechanics - B/Fluids",
-            "J. Escandón, E. Jiménez, F. Méndez",
-            "https://www.sciencedirect.com/science/article/pii/S0997754615000679",
-            null
-        ],
-        [
-            "Research article",
-            "Entropy generation in purely electroosmotic flows of non-Newtonian fluids in a microchannel",
-            "Energy",
-            "J. Escandón, O. Bautista, F. Méndez",
-            "https://www.sciencedirect.com/science/article/pii/S0360544213003411",
-            null
-        ],
-        [
-            "Research article",
-            "High-frequency thermal-fluidic characterization of dynamic microchannel flow boiling instabilities: Part 2 – Impact of operating conditions on instability type and severity",
-            "International Journal of Multiphase Flow",
-            "Todd A. Kingston, Justin A. Weibel, Suresh V. Garimella",
-            "https://www.sciencedirect.com/science/article/pii/S0301932218300727",
-            null
-        ],
-        [
-            "Research article",
-            "Electromagnetohydrodynamic thermo-fluidic transport in a porous microchannel with wall roughness",
-            "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
-            "A. Rana, M. Reza, G. C. Shit",
-            "https://www.sciencedirect.com/science/article/pii/S0927775722010913",
-            null
-        ],
-        [
-            "Research article",
-            "Numerical study on the heat transfer performance of non-Newtonian fluid flow in a manifold microchannel heat sink",
-            "Applied Thermal Engineering",
-            "Si-Ning Li, Hong-Na Zhang, Sang Woo Joo",
-            "https://www.sciencedirect.com/science/article/pii/S1359431116322761",
-            null
-        ],
-        [
-            "Research article",
-            "Start-up electroosmotic flow of Maxwell fluids in a rectangular microchannel with high zeta potentials",
-            "Journal of Non-Newtonian Fluid Mechanics",
-            "E. Jiménez, J. Escandón, F. Méndez",
-            "https://www.sciencedirect.com/science/article/pii/S0377025715001871",
-            null
-        ],
-        [
-            "Research article",
-            "Numerical study of fluid flow and heat transfer phenomenon within microchannels comprising different superhydrophobic structures",
-            "International Journal of Thermal Sciences",
-            "Masoud Kharati-Koopaee, Mohammad Reza Akhtari",
-            "https://www.sciencedirect.com/science/article/pii/S1290072917304143",
-            null
-        ],
-        [
-            "Research article",
-            "Effects of different geometric structures on fluid flow and heat transfer performance in microchannel heat sinks",
-            "International Journal of Heat and Mass Transfer",
-            "G. D. Xia, J. Jiang, D. D. Ma",
-            "https://www.sciencedirect.com/science/article/pii/S0017931014008400",
-            null
-        ],
-        [
-            "Research article",
-            "Flow structure and heat transfer of non-Newtonian fluids in microchannel heat sinks with dimples and protrusions",
-            "Applied Thermal Engineering",
-            "Ping Li, Di Zhang, Gongnan Xie",
-            "https://www.sciencedirect.com/science/article/pii/S1359431115011783",
-            null
-        ],
-        [
-            "Research article",
-            "Characteristics of heat transfer and fluid flow in a fractal multilayer silicon microchannel",
-            "International Communications in Heat and Mass Transfer",
-            "Shanglong Xu, Yue Li, Lili Yang",
-            "https://www.sciencedirect.com/science/article/pii/S0735193315002729",
-            null
-        ],
-        [
-            "Research article",
-            "Numerical simulation of stability behaviors and heat transfer characteristics for near-critical fluid microchannel flows",
-            "Energy Conversion and Management",
-            "Lin Chen, Xin-Rong Zhang, Shigenao Maruyama",
-            "https://www.sciencedirect.com/science/article/pii/S0196890415011346",
-            null
-        ],
-        [
-            "Research article",
-            "Dynamics of suspended microchannel resonators conveying opposite internal fluid flow: Stability, frequency shift and energy dissipation",
-            "Journal of Sound and Vibration",
-            "Wen-Ming Zhang, Han Yan, Guang Meng",
-            "https://www.sciencedirect.com/science/article/pii/S0022460X16000584",
-            null
-        ],
-        [
-            "Research article",
-            "Joule heating effect on a purely electroosmotic flow of non-Newtonian fluids in a slit microchannel",
-            "Journal of Non-Newtonian Fluid Mechanics",
-            "S. Sánchez, J. Arcos, F. Méndez",
-            "https://www.sciencedirect.com/science/article/pii/S0377025712002224",
-            null
-        ],
-        [
-            "Research article",
-            "AC electroosmotic flow of generalized Maxwell fluids in a rectangular microchannel",
-            "Journal of Non-Newtonian Fluid Mechanics",
-            "Yong-jun Jian, Quan-sheng Liu, Lian-gui Yang",
-            "https://www.sciencedirect.com/science/article/pii/S0377025711002023",
-            null
-        ],
-        [
-            "Research article",
-            "Fluid flow and heat transfer characteristics of liquid cooling microchannels in LTCC multilayered packaging substrate",
-            "International Journal of Heat and Mass Transfer",
-            "Lan-Ying Zhang, Yang-Fei Zhang, Shu-Lin Bai",
-            "https://www.sciencedirect.com/science/article/pii/S0017931015000113",
-            null
+            "Circular Economy in Integrated Product and Production Development Education",
+            "Procedia Manufacturing",
+            "Volume 33 (Cover date: 2019)Pages 470-476",
+            "Minna Lanz, Hasse Nylund, Kaisu Rättyä, Download PDF",
+            "https://www.sciencedirect.com/science/article/pii/S2351978919305360",
+            "10.1016/j.techfore.2020.120567"
         ]
     ]
 }
