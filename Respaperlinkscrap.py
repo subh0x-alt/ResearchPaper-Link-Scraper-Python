@@ -117,4 +117,4 @@ for article in article_containers:
 # TODO: Add paginations for extracting articles from other pages as well.
 
 # TODO: Exporting the results to a .json file.
-article_container_df.to_json('Researchpaper_list.json', orient = 'split', compression = 'infer')
+article_container_df.to_json(r'Analysis-ScienceDirectPapers\Researchpaper_list.json', orient = 'records', compression = 'infer')
