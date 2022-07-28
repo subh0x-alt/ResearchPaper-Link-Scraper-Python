@@ -15,7 +15,7 @@ Science-Direct Articles Scraper.
 @Last updated:  28 July 2022.
 @Author:        Subhrajit Guchait.
 """
-
+# Manipulate the url to get the required number of entries:
 def url_manipulator(url, num_entries):
     # Manipulate the url to be compatible with the Science Direct search
     if (num_entries > 25 & num_entries <= 100):
@@ -25,10 +25,21 @@ def url_manipulator(url, num_entries):
             num = 100
         url = url + f"&show={num}"
     else:
+        # Need to work on this!!!!
         # url = url + f"&show=100&offset={num}"
         pass
     return url
 
+# Function to get and store the data from the search page
+def get_data(driver):
+    # Incomplete: working on this!!!!
+    # Get the data from the search page:
+    data = driver.find_elements_by_class_name("result-item")
+    # Store the data in a list:
+    data_list = []
+    for i in data:
+        data_list.append(i.text)
+    return data_list
 
 # Extract the links and info about the research papers:
 def extract_links(driver):
@@ -42,16 +53,15 @@ def extract_links(driver):
         if num_entries <=25:
             pass
         else:
-            driver.getCurrentUrl()
             # Call the url manipulator function to manipulate the url:
             url = url_manipulator(driver.getCurrentUrl(), num_entries)
-            driver.get(url)
+            # Incomplete: working on this!!!!
             # Wait for the page to load:
-            sleep(randrange(2, 5))
-            sys.exit("Error: ScienceDirectScraper: Invalid number of entries to be extracted.")
+            sleep(randrange(1, 3))
+            get_data(driver.get(url))
+            
     
 def ScienceDirectScraper():
-
     driver = webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install()))
     # Handle exceptions while opening the browser:
     try:
